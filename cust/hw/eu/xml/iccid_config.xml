@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<parameters_config version="1">
+    <!--AR0009CQRE zwx379580 2017/07/03 System_5.0.0.20_01PR V75 begin-->
+    <simcardtype iccid="8934">
+        <string language="es"/>
+        <string country="ES"/>
+    </simcardtype>
+    <!--AR0009CQRE zwx379580 2017/07/03 System_5.0.0.20_01PR V75 end-->
+    <!--AR0009CQRE zwx379580 2017/07/03 System_5.0.0.20_01PR V75 begin-->
+    <simcardtype iccid="8949">
+        <string language="de"/>
+        <string country="DE"/>
+    </simcardtype>
+    <!--AR0009CQRE zwx379580 2017/07/03 System_5.0.0.20_01PR V75 end-->
+    <!--AR0009CQRE zwx379580 2017/07/03 System_5.0.0.20_01PR V75 begin-->
+    <simcardtype iccid="8944">
+        <string language="en"/>
+        <string country="GB"/>
+    </simcardtype>
+    <!--AR0009CQRE zwx379580 2017/07/03 System_5.0.0.20_01PR V75 end-->
+    <!--AR0009CQRE zwx379580 2017/07/03 System_5.0.0.20_01PR V75 begin-->
+    <simcardtype iccid="8933">
+        <string language="fr"/>
+        <string country="FR"/>
+    </simcardtype>
+    <!--AR0009CQRE zwx379580 2017/07/03 System_5.0.0.20_01PR V75 end-->
+    <!--AR0009CQRE zwx379580 2017/07/03 System_5.0.0.20_01PR V75 begin-->
+    <simcardtype iccid="8948">
+        <string language="pl"/>
+        <string country="PL"/>
+    </simcardtype>
+    <!--AR0009CQRE zwx379580 2017/07/03 System_5.0.0.20_01PR V75 end-->
+    <!--AR000AAILT cwx549428 2018/05/14 System_5.0.0.20_02N4 V319 begin-->
+    <!--AR000AAILT zwx288713 2018/02/27 System_5.0.0.20_02IH V299 begin-->
+    <simcardtype iccid="89420">
+        <string language="cs"/>
+        <string country="CZ"/>
+    </simcardtype>
+    <!--AR000AAILT zwx288713 2018/02/27 System_5.0.0.20_02IH V299 end-->
+    <!--AR000AAILT cwx549428 2018/05/14 System_5.0.0.20_02N4 V319 end-->
+</parameters_config>

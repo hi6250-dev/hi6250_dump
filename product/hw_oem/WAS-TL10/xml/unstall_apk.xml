@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+    <tag>
+        <apk>
+        <!-- BEGIN PN: AR0004UV3L Add by z00345405 2017/1/18 -->
+        /system/app/HwLBSService.apk;
+        <!-- END   PN: AR0004UV3L Add by z00345405 2017/1/18 -->
+        <!-- BEGIN PN: AR0009F0DB Added by ywx449010 2017/07/24 -->
+        /cust/cmcc/cn/app/HwAllBackup_CMCC.apk;
+        /cust/cmcc/cn/app/HwCloudDrive_CMCC.apk;
+        <!-- END   PN: AR0009F0DB Added by ywx449010 2017/07/24 -->
+        /system/priv-app/Tag.apk;
+        </apk>
+    </tag>

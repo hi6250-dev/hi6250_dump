@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<change>
+  <components>
+    <component old="com.vmall.client/.activity.VmallWapActivity" new="com.vmall.client/.splash.fragment.SplashActivity"/>
+  </components>
+</change>

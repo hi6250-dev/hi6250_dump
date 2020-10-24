@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<apnReminderList>
+    <!--AR0009CQP2 zwx379580 2017/07/03 System_5.0.0.20_01PR V69 begin-->
+    <apnReminder plmn="23415" remindType="imsiChange" title="Please Choose your Tariff:">
+        <apnSetting name="PAYG WAP" apn="pp.vodafone.co.uk" displayName="1 for Vodafone Prepay" onsName="vodafone UK" otherApns="PAYG WAP:pp.vodafone.co.uk" vmNumber="121" vmTag="voicemail"/>
+        <apnSetting name="Contract WAP" apn="wap.vodafone.co.uk" displayName="2 for Vodafone Postpay" onsName="vodafone UK" vmNumber="121" vmTag="voicemail"/>
+        <apnSetting name="Talkmobile Prepay" apn="payg.talkmobile.co.uk" displayName="1 for Talk Mobile Prepay" onsName="Talkmobile" vmNumber="121" vmTag="voicemail"/>
+        <apnSetting name="Talkmobile Contract" apn="talkmobile.co.uk" displayName="2 for Talk Mobile Postpay" onsName="Talkmobile" vmNumber="121" vmTag="voicemail"/>
+    </apnReminder>
+    <!--AR0009CQP2 zwx379580 2017/07/03 System_5.0.0.20_01PR V69 end-->
+    <!--AR0009CQP2 zwx379580 2017/07/03 System_5.0.0.20_01PR V69 begin-->
+    <apnReminder plmn="52501" remindType="imsiChange" title="Choose your default APN:">
+        <apnSetting name="Singtel (Postpaid)" apn="e-ideas" displayName="Singtel (Postpaid)" vmNumber="1389" vmTag="voicemail"/>
+        <apnSetting name="Singtel (Prepaid)" apn="hicard" displayName="Singtel (Prepaid)" vmNumber="1389" vmTag="voicemail"/>
+    </apnReminder>
+    <!--AR0009CQP2 zwx379580 2017/07/03 System_5.0.0.20_01PR V69 end-->
+    <!--AR0009CQP2 zwx379580 2017/07/03 System_5.0.0.20_01PR V69 begin-->
+    <apnReminder plmn="51502" remindType="imsiChange" title="Choose your default APN">
+        <apnSetting name="myGlobe Internet" apn="internet.globe.com.ph" displayName="Globe Postpaid" vmTag="voicemail"/>
+        <apnSetting name="myGlobe INET" apn="http.globe.com.ph" displayName="Globe Prepaid" vmTag="voicemail"/>
+    </apnReminder>
+    <!--AR0009CQP2 zwx379580 2017/07/03 System_5.0.0.20_01PR V69 end-->
+    <!--AR0009CQOT zwx379580 2017/07/05 System_5.0.0.20_01PX V85 begin-->
+    <!--AR0009CQP2 zwx379580 2017/07/03 System_5.0.0.20_01PR V69 begin-->
+    <apnReminder plmn="52505" remindType="imsiChange" title="Choose your default APN:">
+        <apnSetting name="SH Data Postpaid" apn="shwap" displayName="StarHub (Postpaid)" vmTag="voicemail"/>
+        <apnSetting name="SH Data Prepaid" apn="shppd" displayName="StarHub (Prepaid)" vmTag="voicemail"/>
+    </apnReminder>
+    <!--AR0009CQP2 zwx379580 2017/07/03 System_5.0.0.20_01PR V69 end-->
+    <!--AR0009CQOT zwx379580 2017/07/05 System_5.0.0.20_01PX V85 end-->
+</apnReminderList>

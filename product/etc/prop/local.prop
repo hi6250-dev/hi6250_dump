@@ -1,0 +1,367 @@
+#############################################################################
+########"      __        __               _                     "############
+########"      \ \      / /_ _ _ __ _ __ (_)_ __   __ _         "############
+########"       \ \ /\ / / _` | '__| '_ \| | '_ \ / _` |        "############
+########"        \ V  V / (_| | |  | | | | | | | | (_| |        "############
+########"         \_/\_/ \__,_|_|  |_| |_|_|_| |_|\__, |        "############
+########"                                         |___/         "############
+########"                                                       "############
+########"   ONLY DRIVER PROPS ALLOWED IN THIS SECTION BEGIN     "############
+#BEGIN PN: DTS2016091200415, Added by w00364765,2016/09/12
+ro.control.sleeplog=true
+#END PN: DTS2016091200415, Added by w00364765,2016/09/12
+#BEGIN PN: DTS2016102507535, Added by y00359143,2016/10/25
+ro.config.hw_cdma_proxy=true
+#END PN: DTS2016091200415, Added by y00359143,2016/10/25
+#BEGIN PN: DTS2016102508161, Added by y00359143,2016/10/25
+#DTS2018022808464 modify by qwx406689 20180301 begin
+ro.config.hw_wifi_proxy=false
+#DTS2018022808464 modify by qwx406689 20180301 end
+#END PN: DTS2016102508161, Added by y00359143,2016/10/25
+#BEGIN PN: DTS2016102508523, Added by y00359143,2016/10/25
+ro.config.hw_bastet_filter=true
+#END PN: DTS2016102508523, Added by y00359143,2016/10/25
+#BEGIN PN:DTS2016102705372 ,Add by z00290953,2016/10/27
+ro.config.hw_ReduceSAR=true
+#END PN:DTS2016102705372 ,Add by z00290953,2016/10/27
+#BEGIN PN:DTS2016122212136  ,Add by x00345572,2016/12/23
+ro.config.deviceStatus=0
+#END PN:DTS2016122212136 ,Add by x00345572,2016/12/23
+#BEGIN PN:DTS2017010901230  ,Add by x00345572,2017/1/9
+ro.readfastboot=0
+#END PN:DTS2017010901230 ,Add by x00345572,2017/1/9
+########"                                                       "############
+########"                                                       "############
+########"   ONLY DRIVER PROPS ALLOWED IN THIS SECTION END       "############
+#############################################################################
+
+#############################################################################
+########"      __        __               _                     "############
+########"      \ \      / /_ _ _ __ _ __ (_)_ __   __ _         "############
+########"       \ \ /\ / / _` | '__| '_ \| | '_ \ / _` |        "############
+########"        \ V  V / (_| | |  | | | | | | | | (_| |        "############
+########"         \_/\_/ \__,_|_|  |_| |_|_|_| |_|\__, |        "############
+########"                                         |___/         "############
+########"                                                       "############
+########"   ONLY PROTOCOL PROPS ALLOWED IN THIS SECTION BEGIN   "############
+#PN:DTS2016090705431,Deleted by p00345816,2016/9/7
+#PN:DTS2017011000863,Deleted by p00345816,2016/1/10
+ro.config.nostore_nw_sel_mode=true
+ro.cust.cdrom=/system/cdrom/autorun.iso
+ro.config.hw_useCtrlSocket=true
+ro.config.hw_channel_info=1,0,460,1
+#PN:DTS2016102816151,Deleted by z00290953,2016/10/31
+ril.hw_modem0.rssi=-1
+ril.hw_modem1.rssi=-1
+persist.radio.sglte.eons_domain=ps
+ro.config.optimize_signal=true
+#PN:DTS2016090705431,Deleted by p00345816,2016/9/7
+ro.ril.ecclist=112,911,#911,*911
+#PN:DTS2016090705431,Deleted by p00345816,2016/9/7
+#PN:DTS2017050403986,Deleted by zwx419917,2017/5/5
+persist.radio.apm_sim_not_pwdn=1
+#PN:DTS2017050308592,Deleted by lwx299848,2017/5/4
+ro.radio.vsim_support=false
+#PN:DTS2016102816151,Deleted by z00290953,2016/10/31
+#PN:DTS2016090705431,Deleted by p00345816,2016/9/7
+ro.hwpp.wcdma_ssc=true
+#PN:DTS2016090705431,Deleted by p00345816,2016/9/7
+ro.hwpp.lte_max_rach_optimize=true
+#PN:DTS2016090705431,Deleted by p00345816,2016/9/7
+#BEGIN PN: DTS2016090808412, Added by j00280600, 2016/09/08
+#BEGIN PN: DTS2016101102526, Modified by j00280600, 2016/10/11
+ro.config.app_big_icon_size=180
+#END PN: DTS2016101102526, Modified by j00280600, 2016/10/11
+ro.config.launcher_matchcard=0
+#END PN: DTS2016090808412, Added by j00280600, 2016/09/08
+ro.hwpp.call_end_search_lte=true
+#BEGIN PN:DTS2016090809997,Add by z00290953,2016/9/8
+ro.config.linkplus.liveupdate=true
+ro.config.signalplus.tas=true
+ro.config.signalplus.xpass=true
+ro.config.linkplus.roaming=true
+ro.config.hw_show_4G_Plus_icon=true
+#END PN:DTS2016090809997,Add by z00290953,2016/9/8
+#BEGIN PN: DTS2016111007921, Added by j00280600, 2016/11/22
+keyguard.no_require_sim=true
+#END PN: DTS2016111007921, Added by j00280600, 2016/11/22
+#BEGIN PN: DTS2016090902592, Added by lwx299848, 2016/09/09
+ro.config.hw_hotswap_on=true
+ro.config.hw_dsdspowerup=true
+ro.config.hw_sim2airplane=true
+#END PN: DTS2016090902592, Added by lwx299848, 2016/09/09
+#BEGIN PN: DTS2017122003169 Added by fanxingpan WX322000 20171222
+ro.config.hw_volte_on=true
+ro.config.hw_ims_as_normal=true
+persist.radio.nv_match_by_card=2
+#END PN:DTS2017122003169 Added by fanxingpan WX322000 20171222
+#BEGIN DTS2017122200313 add by xwx412248, 2018/02/09
+ro.config.dual_imsi_hplmn_cust=21421,26832,74807
+#end DTS2017122200313 add by xwx412248, 2018/02/09
+########"                                                       "############
+########"                                                       "############
+########"   ONLY PROTOCOL PROPS ALLOWED IN THIS SECTION END     "############
+#############################################################################
+    
+    
+    
+#############################################################################
+########"      __        __               _                     "############
+########"      \ \      / /_ _ _ __ _ __ (_)_ __   __ _         "############
+########"       \ \ /\ / / _` | '__| '_ \| | '_ \ / _` |        "############
+########"        \ V  V / (_| | |  | | | | | | | | (_| |        "############
+########"         \_/\_/ \__,_|_|  |_| |_|_|_| |_|\__, |        "############
+########"                                         |___/         "############
+########"                                                       "############
+########"   ONLY APP TEAM PROPS ALLOWED IN THIS SECTION BEGIN   "############
+#####################################################################################
+######## 1.APP MANUFACTURE TEAM BEGIN
+###########1.1.MMI BEGIN
+
+###########1.1.MMI END
+    
+###########1.2.PROJECT MENU BEGIN
+
+###########1.2.PROJECT MENU END
+    
+###########1.3.RUN IN TEST BEGIN
+###########1.3.RUN IN TEST END
+######## 1.APP MANUFACTURE TEAM END
+#####################################################################################
+######## 2.BASEAPP TEAM BEGIN
+#BEGIN PN: DTS2016090905179 ,added by w00359131 20160909
+ro.config.support_ca=true
+#END PN: DTS2016090905179,added by w00359131 20160909
+#BEGIN PN: DTS2016090807173, Added by g00345742, 2016/09/08
+persist.sys.dualcards=true
+ro.config.hw_switchdata_4G=true
+#END PN: DTS2016090807173, Added by g00345742, 2016/09/08
+#BEGIN PN: DTS2016090804666, Added by wWX273887, 2016/09/09
+ro.config.hw_smartcardservice=true
+#END PN: DTS2016090804666, Added by wWX273887, 2016/09/09
+#BEGIN PN:DTS2016091211778 Added by w00219312 2016/09/28
+#BEGIN PN:AR0008RGH1 Modified by h00368430 2017/01/05
+ro.config.hw_glovemode_enabled=0
+#END PN: AR0008RGH1, Modified by h00368430, 2017/01/05
+ro.config.hw_smart_backlight=1
+ro.config.colorTemperature_K3=true
+modify_ram_show=true
+#BEGIN PN:DTS2017011111802 Modified by h00368430 2017/01/11
+#AR0009POJA wujianping/wx273251 20171103 begin
+#AR000A2A51 wujianping/wx273251 20171226 begin
+ro.build.hide=false
+#AR000A2A51 wujianping/wx273251 20171226 end
+#AR0009POJA wujianping/wx273251 20171103 end
+#END PN: DTS2017011111802, Modified by h00368430, 2017/01/11
+#AR0009POJA wujianping/wx273251 20171103 begin
+#AR0009POJA wujianping/wx273251 20171201 begin
+ro.build.hide.settings=4;1.2 GHz;1.0GB;405 MB;4.00 GB;540 x 960;7.0;3.0.8;5.0.1
+ro.build.hide.matchers=Huawei;Honor;ARM;hi6250;Mali-T830;Mali-T880;8.0.1;8.0.0
+ro.build.hide.replacements=unknown;unknown;unknown;unknown;unknown;unknown;5.0.1;5.0.1
+#AR0009POJA wujianping/wx273251 20171201 end
+#AR0009POJA wujianping/wx273251 20171103 end
+#BEGIN PN:DTS2017011111802 Modified by h00368430 2017/01/11
+#AR0009POJA wujianping/wx273251 20171103 begin
+#AR000A2A51 wujianping/wx273251 20171226 begin
+ro.config.hw_watermark=false
+#AR000A2A51 wujianping/wx273251 20171226 end
+#AR0009POJA wujianping/wx273251 20171103 end
+#END PN: DTS2017011111802, Modified by h00368430, 2017/01/11
+ro.config.colorTemperature_3d=true
+#BEGIN PN:AR0004J237 Modified by h00368430 2016/12/6
+ro.config.cpu_info_display=Kirin 658
+#END PN:AR0004J237 Modified by h00368430 2016/12/6
+#END PN:DTS2016091211778 Added by w00219312 2016/09/28
+#BEGIN PN:DTS2016101104657 Added by m00290952 20161011
+#BEGIN PN:AR0009BB86 Modified by lwx288597 2017/06/07
+ro.config.ringtone=Huawei_Tune.ogg
+ro.config.ringtone2=Huawei_Tune_Orchestral.ogg
+#END PN:AR0009BB86 Modified by lwx288597 2017/06/07
+#BEGIN PN: AR0006T8ES , Added by zhangqinfeng 00360078, 2016/10/26
+ro.config.hw_wifibridge=true
+#END PN: AR0006T8ES , Added by zhangqinfeng 00360078, 2016/10/26
+ro.config.alarm_alert=Aegean_Sea.ogg
+ro.config.notification_sound=Bongo.ogg
+#END PN:DTS2016101104657 Added by m00290952 20161011
+#BEGIN PN:DTS2016101800821 add h00368430 20161103
+ro.config.marketing_name=WAS-XXX
+#END PN:DTS2016101800821 add h00368430 20161103
+#BEGIN PN: AR0004KHFL, Added by lwx206914, 2016/11/07
+ro.config.finger_joint=true
+#END PN: AR0004KHFL, Added by lwx206914, 2016/11/07
+#BEGIN PN: AR0008USN9, Added by zwx419918, 2017/02/06
+hw.wifi.disable_auto_disc=true
+#END PN: AR0008USN9, Added by zwx419918, 2017/02/06
+#BEGIN PN: AR0008S3EJ add by w00382599 2017/1/10
+ro.config.support_sdcard_crypt=false
+#END PN: AR0008S3EJ add by w00382599 2017/1/10
+#BEGIN PN:AR0008UB1V,Added by h00368430, 2017/01/24
+ro.config.hw_support_clone_app=true
+#END PN:AR0008UB1V,Added by h00368430, 2017/01/24
+#BEGIN PN:AR0008UBDG Added by z00253977, 2017/02/07
+ro.hwcamera.normal_beauty_hint=false
+ro.hwcamera.portrait_mode=off
+#END PN:AR0008UBDG Added by z00253977, 2017/02/07
+#BEGIN PN:AR00093FIM Added by t00290943, 2017/03/13
+ro.hwcamera.SlowMotionZoom=false
+#END PN:AR00093FIM Added by t00290943, 2017/03/13
+#BEGIN PN:AR00098AL6 Added by z00345745, 2017/05/02
+ro.config.enableAptX=false
+#END PN:AR00098AL6 Added by z00345745, 2017/05/02
+#BEGIN PN: DTS2017050400570, Added by gwx327729, 2017/5/9
+ro.check.modem_network=true
+#END PN: DTS2017050400570, Added by gwx327729, 2017/5/9
+#BEGIN PN: DTS2017070402087, Added by fwx231527, 2017/7/14
+ro.config.issupport.midi=false
+#END PN: DTS2017070402087, Added by fwx231527, 2017/7/14
+#AR0009POJI wujianping/wx273251 20171102 begin
+ro.config.auto_display_mode=false
+#AR0009POJI wujianping/wx273251 20171102 end
+# AR0009POJJ lizhenlong/wx336817 20171124 begin
+ro.config.show_auto_brightness=true
+# AR0009POJJ lizhenlong/wx336817 20171124 end
+# AR0009PONM Added By wx327729 2017/12/21 begin
+ro.config.rom_lite_old_features=true
+# AR0009PONM Added By wx327729 2017/12/21 end
+# AR000AC9D2 Added by dwx334042 2018/03/14 begin
+ro.config.gameassist=1
+# AR000AC9D2 Added by dwx334042 2018/03/14 end
+######## 2.BASEAPP TEAM END
+#####################################################################################
+######## 3.MULTI-MEDIA TEAM BEGIN
+ro.config.hw_camera_davinci=true
+ro.config.camera_target_track=true
+ro.config.hw_camera_bestShot=true
+ro.config.hwinternet_audio=1
+# DTS2018010501849 w00425134 2018/01/15  begin
+ro.config.hw_fyuse_enable=false
+# DTS2018010501849 w00425134 2018/01/15  end
+#BEGIN PN:DTS2016090804666 Added by wwx270239 2016/09/12
+ro.gallery.thumbnailLoading=true
+ro.config.small.previewpos=left
+#BEGIN PN:DTS2016102714731 Modified by l00280638 2016/10/31
+#BEGIN PN:AR0008QRD1 Modified by t00290943 2016/12/26
+ro.hwcamera.brightness_range=4,255
+#END PN:AR0008QRD1 Modified by t00290943 2016/12/26
+#END PN:DTS2016102714731 Modified by l00280638 2016/10/31
+#END PN:DTS2016090804666 Added by wwx270239 2016/09/12
+#BEGIN PN:DTS2016101801172  Added by c00367273 2016/10/19
+ro.config.hw_sws=true
+ro.config.hw_dts_settings=true
+#BEGIN PN: DTS2016120605319   , deleted by c00367273 2016/12/06
+#ro.config.swsAlwaysActiveForSPK=true
+#END PN: DTS2016120605319   , deleted by c00367273 2016/12/06
+ro.config.sws_version=sws2
+#END PN:DTS2016101801172  Added by c00367273 2016/10/19
+#BEGIN PN: DTS2016111103257, added by c00367273 2016/11/12
+ro.config.hw.security_volume=8
+#END PN: DTS2016111103257, added by c00367273 2016/11/12
+#BEGIN PN: DTS2016112404921   , added by c00367273 2016/12/02
+drm.service.enabled=true
+#END PN: DTS2016112404921   , added by c00367273 2016/12/02
+#BEGIN PN: DTS2017010303403  , modified by ywx429482 2017/01/03
+#BEGIN PN: DTS2016120605319   , added by c00367273 2016/12/06
+ro.media.NxpSmartPACurve=WAS_1206:1,-45:87,-4:93,-2:100,0.0:-15:
+#END PN: DTS2016120605319   , added by c00367273 2016/12/06
+#END PN: DTS2017010303403  , modified by ywx429482 2017/01/03
+#AR0009PV7R m00349496 20171110 begin
+ro.features_preserved_6.0=true
+#AR0009PV7R m00349496 20171110 end
+ro.config.hw_media_flags=2
+######## 3.MULTI-MEDIA TEAM END
+#####################################################################################
+######## 4.FRAMEWORK TEAM BEGIN
+ro.blight.exempt_app_type=-1,1,16,24
+ro.config.blight_power_curve=49,1;71,0.8;150,0.8;220,0.75;370,0.75;390,0.8;420,0.9;450,1
+dalvik.vm.heapstartsize=8m
+dalvik.vm.heapsize=512m
+#BEGIN PN: DTS2016090503041 ,  Added by c00269428, 2016/09/05
+dalvik.vm.heapgrowthlimit=384m
+#END PN: DTS2016090503041 ,  Added by c00269428, 2016/09/05
+#DTS2016100903325  mwx306152 20161020 begin
+ro.config.hw_ubmenable=true
+#DTS2016100903325  mwx306152 20161020 end
+#BEGIN  DTS2016120804852  Added by mwx306152 2016/12/08
+ro.hwui.texture_cache_size=72
+ro.hwui.layer_cache_size=48
+#END  DTS2016120804852  Added by mwx306152 2016/12/08
+#BEGIN PN: AR0008KS6O, Added by wwx270385, 2016/12/23
+ro.config.small_cover_size=_747x1920
+ro.config.huawei_smallwindow=333,0,1080,1920
+#END PN: AR0008KS6O, Added by wwx270385, 2016/12/23
+ro.product.fingerprintName=HUAWEI-WARSAW
+#BEGIN PN: DTS2017011102016, Added by q00290899, 2017/01/11
+#AR00099DF2 Modified By wangqiong 2018/1/29 BEGIN
+#AR00099DF2 Modified By wangqiong 2018/1/29 end
+#END PN: DTS2017011102016, Added by q00290899, 2017/01/11
+######## 4.FRAMEWORK TEAM END
+#####################################################################################
+######## 5.DATA SERVICE TEAM BEGIN
+ro.config.attach_ip_type=IPV4V6
+ro.config.mm_socket_ctrl=1
+ro.config.ipv4.mtu=1400
+######## 5.DATA SERVICE TEAM END
+#####################################################################################
+######## 6.APPLET TEAM BEGIN
+######## 6.APPLET TEAM END
+#####################################################################################
+######## 7.PRODUCT INFO BEGIN
+ro.product.manufacturer=HUAWEI
+ro.product.brand=HUAWEI
+#BEGIN PN: DTS2016090702773, Added by swx355999, 2016/09/08
+ro.product.device=HWWAS-H
+#END PN: DTS2016090702773, Added by swx355999, 2016/09/08
+#BEGIN PN: DTS2016090906730 , Added by w00355676, 2016/09/09
+ro.config.hw_gps_power_track=true
+ro.config.wifi_country_code=true
+ro.config.hw_support_geofence=true
+#END PN: DTS2016090906730 , Added by w00355676, 2016/09/09
+#BEGIN PN:AR0008SUP5 Added by w00345242 2017/01/16
+camera.ignore.chat.facebeauty=1
+#END PN:AR0008SUP5 Added by w00345242 2017/01/16
+#DELETE DTS2017113007123 by cwx513094 20171205
+######## 7.PRODUCT INFO END
+######## POWER TEAM BEGIN
+#DTS2018041910896 qwx406689 20180419 begin
+ro.config.hw_pg_frz_all=true
+#DTS2018041910896 qwx406689 20180419 end
+#AR0009PV7M qwx406689 20171102 begin
+ro.config.wifi_turn_off=true
+#AR0009PV7M qwx406689 20171102 end
+ro.config.hw_restrict_gps=true
+#AR0009PV7N qwx406689 20171102 begin
+ro.config.upgrade_appkill=true
+#AR0009PV7N qwx406689 20171102 end
+ro.config.enable_thermal_bdata=true
+#DTS2018022606511 Added by qwx406689 20180226 begin
+ro.config.pg_fix_alarm_interval=false
+#DTS2018022606511 Added by qwx406689 20180226 end
+######## POWER TEAM END
+#####################################################################################
+########"                                                       "############
+########"                                                       "############
+########"   ONLY APP TEAM PROPS ALLOWED IN THIS SECTION END     "############
+#############################################################################
+# AR0009POJH zhuxiaogang/wx354275 20171121 begin
+ro.config.hw_hiboard_manage=true
+# AR0009POJH zhuxiaogang/wx354275 20171121 end
+#AR0009POJK zwx390973 20171117 begin
+ro.hw_disable_instantonline=true
+#AR0009POJK zwx390973 20171117 end
+#AR0009KT3F wwx432034 20171205 begin
+ro.config.ota_update_theme=8
+#AR0009KT3F wwx432034 20171205 end
+#DTS2017120610478 zhangweiwei/00214393 20171207 begin
+ro.product.first_api_level=24
+#DTS2017120610478 zhangweiwei/00214393 20171207 end
+#BEGIN PN: DTS2017120813603, Added by c00187022, 2017/12/19
+persist.cpub_min_freq_skip=0
+#END PN: DTS2017120813603, Added by c00187022, 2017/12/19
+# AR000AAN5J sunqian/swx505476 20180303 begin
+ro.config.dropdown_on_keyguard=false
+# AR000AAN5J sunqian/swx505476 20180303 end
+# AR000AFUSE guochenguang/wx290074 20180419 begin
+ro.config.hw_charge_frz=true
+# AR000AFUSE guochenguang/wx290074 20180419 begin
+
+ro.comp.product_version=Product-WAS 8.0.0.5(0000)

@@ -1,0 +1,8 @@
+/cust/hw/eu/app/HMS/HMS.apk
+/cust/hw/eu/app/HwTrustCircle/HwTrustCircle.apk
+/cust/hw/eu/app/HiFolder/HiFolder.apk
+/cust/hw/eu/app/PredefinedEapSim/PredefinedEapSim.apk
+/cust/hw/eu/app/OMACP/OMACP.apk
+/cust/hw/eu/app/HwCloudDrive_EU/HwCloudDrive_EU.apk
+/cust/hw/eu/app/HwPushService/HwPushService.apk
+/cust/hw/eu/app/HwPhoneService/HwPhoneService.apk,priv

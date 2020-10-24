@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<virtualNets>
+    <!--AR0009CQP6 zwx379580 2017/10/16 System_5.0.0.20_026Q V236 begin-->
+    <virtualNet hplmn="21403" virtual_net_rule="3" spn="Happy" ons_name="1:21403,21403,Happy,Happy;"/>
+    <!--AR0009CQP6 zwx379580 2017/10/16 System_5.0.0.20_026Q V236 end-->
+    <!--AR0009CQP6 zwx379580 2017/10/16 System_5.0.0.20_026Q V236 begin-->
+    <virtualNet hplmn="21403" virtual_net_rule="3" spn="CABLE movil" ons_name="1:21403,21403,CABLE movil,CABLE movil;"/>
+    <!--AR0009CQP6 zwx379580 2017/10/16 System_5.0.0.20_026Q V236 end-->
+    <!--AR0009CQP6 zwx379580 2017/10/16 System_5.0.0.20_026Q V236 begin-->
+    <virtualNet hplmn="21405" virtual_net_rule="3" spn="Pepephone" ons_name="1:21405,21407,Pepephone,Pepephone;"/>
+    <!--AR0009CQP6 zwx379580 2017/10/16 System_5.0.0.20_026Q V236 end-->
+    <!--AR0009CQP6 zwx379580 2017/10/16 System_5.0.0.20_026Q V236 begin-->
+    <virtualNet hplmn="21405" virtual_net_rule="3" spn="pepephone" ons_name="1:21405,21407,Pepephone,Pepephone;2:21405,21405,Pepephone,pepephone;"/>
+    <!--AR0009CQP6 zwx379580 2017/10/16 System_5.0.0.20_026Q V236 end-->
+    <!--AR0009CQP6 zwx379580 2017/10/16 System_5.0.0.20_026Q V236 begin-->
+    <virtualNet hplmn="21406" virtual_net_rule="3" spn="Eroski Movil" ons_name="1:21406,21401,Eroski Movil,Eroski Movil;"/>
+    <!--AR0009CQP6 zwx379580 2017/10/16 System_5.0.0.20_026Q V236 end-->
+    <!--AR0009CQP6 zwx379580 2017/10/16 System_5.0.0.20_026Q V236 begin-->
+    <virtualNet hplmn="21405" virtual_net_rule="3" spn="ONO" ons_name="1:21405,21401,ONO,ONO;"/>
+    <!--AR0009CQP6 zwx379580 2017/10/16 System_5.0.0.20_026Q V236 end-->
+    <!--AR0009CQP6 zwx379580 2017/10/16 System_5.0.0.20_026Q V236 begin-->
+    <virtualNet hplmn="23430" virtual_net_rule="2" gid1="0x28" gid_mask="0xFF" ons_name="1:23430,23430,Virgin,Virgin;1:23430,23431,Virgin,Virgin;1:23430,23432,Virgin,Virgin;1:23430,23433,virgin,virgin;1:23430,23434,virgin,virgin;1:23430,23486,virgin,virgin;"/>
+    <!--AR0009CQP6 zwx379580 2017/10/16 System_5.0.0.20_026Q V236 end-->
+    <!--AR0009CQP6 zwx379580 2017/10/16 System_5.0.0.20_026Q V236 begin-->
+    <virtualNet hplmn="23438" virtual_net_rule="2" gid1="0x28" gid_mask="0xFF" ons_name="1:23438,23430,Virgin,Virgin;1:23438,23431,Virgin,Virgin;1:23438,23432,Virgin,Virgin;1:23438,23433,virgin,virgin;1:23438,23434,virgin,virgin;1:23438,23486,virgin,virgin;"/>
+    <!--AR0009CQP6 zwx379580 2017/10/16 System_5.0.0.20_026Q V236 end-->
+    <!--AR0009CQP6 zwx379580 2017/10/16 System_5.0.0.20_026Q V236 begin-->
+    <virtualNet hplmn="46605" virtual_net_rule="3" spn="GT 4G" ons_name="2:46605,46605,APT,GT 4G;"/>
+    <!--AR0009CQP6 zwx379580 2017/10/16 System_5.0.0.20_026Q V236 end-->
+    <!--AR0009CQP6 zwx379580 2017/10/16 System_5.0.0.20_026Q V236 begin-->
+    <virtualNet hplmn="20404" virtual_net_rule="3" spn="hollandsnieuwe" ons_name="2:20404,20404,Hollandsnieuwe,hollandsnieuwe;"/>
+    <!--AR0009CQP6 zwx379580 2017/10/16 System_5.0.0.20_026Q V236 end-->
+    <!--AR0009CQP6 zwx379580 2017/10/16 System_5.0.0.20_026Q V236 begin-->
+    <virtualNet hplmn="21405" virtual_net_rule="3" spn="Tuenti" ons_name="2:21405,21405,tuenti,Tuenti;"/>
+    <!--AR0009CQP6 zwx379580 2017/10/16 System_5.0.0.20_026Q V236 end-->
+    <!--AR0009CQP6 zwx379580 2017/10/16 System_5.0.0.20_026Q V236 begin-->
+    <virtualNet hplmn="53703" virtual_net_rule="3" spn="DIGICEL" ons_name="2:53703,53703,Digicel PNG,DIGICEL;"/>
+    <!--AR0009CQP6 zwx379580 2017/10/16 System_5.0.0.20_026Q V236 end-->
+    <!--AR0009CQP6 zwx379580 2017/10/16 System_5.0.0.20_026Q V236 begin-->
+    <virtualNet hplmn="20416" virtual_net_rule="1" imsi_start="204164442" ons_name="1:20416,20420,Ben NL,Ben NL;"/>
+    <!--AR0009CQP6 zwx379580 2017/10/16 System_5.0.0.20_026Q V236 end-->
+    <!--AR0009CQP6 zwx379580 2017/10/16 System_5.0.0.20_026Q V236 begin-->
+    <virtualNet hplmn="20416" virtual_net_rule="1" imsi_start="204164542" ons_name="1:20416,20420,Ben NL,Ben NL;"/>
+    <!--AR0009CQP6 zwx379580 2017/10/16 System_5.0.0.20_026Q V236 end-->
+    <!--AR0009CQP6 zwx379580 2017/10/16 System_5.0.0.20_026Q V236 begin-->
+    <virtualNet hplmn="20416" virtual_net_rule="1" imsi_start="2041646420" ons_name="1:20416,20420,Ben NL,Ben NL;"/>
+    <!--AR0009CQP6 zwx379580 2017/10/16 System_5.0.0.20_026Q V236 end-->
+    <!--AR0009CQP6 zwx379580 2017/10/16 System_5.0.0.20_026Q V236 begin-->
+    <virtualNet hplmn="20416" virtual_net_rule="1" imsi_start="204164742" ons_name="1:20416,20420,Ben NL,Ben NL;"/>
+    <!--AR0009CQP6 zwx379580 2017/10/16 System_5.0.0.20_026Q V236 end-->
+    <!--AR0009CQP6 zwx379580 2017/10/16 System_5.0.0.20_026Q V236 begin-->
+    <virtualNet hplmn="20408" virtual_net_rule="1" imsi_start="2040807500" ons_name="1:2040807500,20408,Ziggo,Ziggo;"/>
+    <!--AR0009CQP6 zwx379580 2017/10/16 System_5.0.0.20_026Q V236 end-->
+    <!--AR0009CQP6 zwx379580 2017/10/16 System_5.0.0.20_026Q V236 begin-->
+    <virtualNet hplmn="20408" virtual_net_rule="1" imsi_start="2040807501" ons_name="1:2040807501,20408,Ziggo,Ziggo;"/>
+    <!--AR0009CQP6 zwx379580 2017/10/16 System_5.0.0.20_026Q V236 end-->
+    <!--AR0009CQP6 zwx379580 2017/10/16 System_5.0.0.20_026Q V236 begin-->
+    <virtualNet hplmn="20408" virtual_net_rule="1" imsi_start="2040807502" ons_name="1:2040807502,20408,Ziggo,Ziggo;"/>
+    <!--AR0009CQP6 zwx379580 2017/10/16 System_5.0.0.20_026Q V236 end-->
+    <!--AR0009CQP6 zwx379580 2017/10/16 System_5.0.0.20_026Q V236 begin-->
+    <virtualNet hplmn="20408" virtual_net_rule="1" imsi_start="2040807503" ons_name="1:2040807503,20408,Ziggo,Ziggo;"/>
+    <!--AR0009CQP6 zwx379580 2017/10/16 System_5.0.0.20_026Q V236 end-->
+    <!--AR0009CQP6 zwx379580 2017/10/16 System_5.0.0.20_026Q V236 begin-->
+    <virtualNet hplmn="20408" virtual_net_rule="1" imsi_start="2040807504" ons_name="1:2040807504,20408,Ziggo,Ziggo;"/>
+    <!--AR0009CQP6 zwx379580 2017/10/16 System_5.0.0.20_026Q V236 end-->
+    <!--AR0009CQP6 zwx379580 2017/10/16 System_5.0.0.20_026Q V236 begin-->
+    <virtualNet hplmn="20408" virtual_net_rule="1" imsi_start="204080751" ons_name="1:204080751,20408,Ziggo,Ziggo;"/>
+    <!--AR0009CQP6 zwx379580 2017/10/16 System_5.0.0.20_026Q V236 end-->
+    <!--AR0009CQP6 zwx379580 2017/10/16 System_5.0.0.20_026Q V236 begin-->
+    <virtualNet hplmn="20404" virtual_net_rule="3" spn="ziggo.dataxs.mob" ons_name="1:20404,20404,Ziggo,Ziggo;"/>
+    <!--AR0009CQP6 zwx379580 2017/10/16 System_5.0.0.20_026Q V236 end-->
+    <!--AR0009CQP6 zwx379580 2017/10/16 System_5.0.0.20_026Q V236 begin-->
+    <virtualNet hplmn="222998" virtual_net_rule="1" imsi_start="222998" ons_name="1:222998,22299,FASTWEB,FASTWEB;"/>
+    <!--AR0009CQP6 zwx379580 2017/10/16 System_5.0.0.20_026Q V236 end-->
+    <!--AR0009CQP6 zwx379580 2017/10/16 System_5.0.0.20_026Q V236 begin-->
+    <virtualNet hplmn="23410" virtual_net_rule="2" gid1="0x53" gid_mask="0xFF" ons_name="1:23410,23410,TalkTalk,TalkTalk;"/>
+    <!--AR0009CQP6 zwx379580 2017/10/16 System_5.0.0.20_026Q V236 end-->
+    <!--AR0009CQP6 zwx379580 2017/10/16 System_5.0.0.20_026Q V236 begin-->
+    <virtualNet hplmn="240077" virtual_net_rule="1" imsi_start="240077" ons_name="1:240077,24007,Comviq,Comviq;"/>
+    <!--AR0009CQP6 zwx379580 2017/10/16 System_5.0.0.20_026Q V236 end-->
+    <!--AR0009CQP6 zwx379580 2017/10/16 System_5.0.0.20_026Q V236 begin-->
+    <virtualNet hplmn="240078" virtual_net_rule="1" imsi_start="240078" ons_name="1:240078,24007,Comviq,Comviq;"/>
+    <!--AR0009CQP6 zwx379580 2017/10/16 System_5.0.0.20_026Q V236 end-->
+    <!--AR0009CQP6 zwx379580 2017/10/16 System_5.0.0.20_026Q V236 begin-->
+    <virtualNet hplmn="23802" virtual_net_rule="1" imsi_start="2380225" ons_name="1:2380225,23802,CBB,CBB;"/>
+    <!--AR0009CQP6 zwx379580 2017/10/16 System_5.0.0.20_026Q V236 end-->
+    <!--AR0009CQP6 zwx379580 2017/10/16 System_5.0.0.20_026Q V236 begin-->
+    <virtualNet hplmn="23802" virtual_net_rule="1" imsi_start="2380227" ons_name="1:2380227,23802,CBB,CBB;"/>
+    <!--AR0009CQP6 zwx379580 2017/10/16 System_5.0.0.20_026Q V236 end-->
+    <!--AR0009CQP6 zwx379580 2017/10/16 System_5.0.0.20_026Q V236 begin-->
+    <virtualNet hplmn="23802" virtual_net_rule="1" imsi_start="2380280" ons_name="1:2380280,23802,BiBoB,BiBoB;"/>
+    <!--AR0009CQP6 zwx379580 2017/10/16 System_5.0.0.20_026Q V236 end-->
+    <!--AR0009CQP6 zwx379580 2017/10/16 System_5.0.0.20_026Q V236 begin-->
+    <virtualNet hplmn="24205" virtual_net_rule="1" imsi_start="2420507" ons_name="1:2420507,24205,One Call,One Call;"/>
+    <!--AR0009CQP6 zwx379580 2017/10/16 System_5.0.0.20_026Q V236 end-->
+    <!--AR0009CQP6 zwx379580 2017/10/16 System_5.0.0.20_026Q V236 begin-->
+    <virtualNet hplmn="24205" virtual_net_rule="1" imsi_start="2420508" ons_name="1:2420508,24205,One Call,One Call;"/>
+    <!--AR0009CQP6 zwx379580 2017/10/16 System_5.0.0.20_026Q V236 end-->
+    <!--AR0009CQP6 zwx379580 2017/10/16 System_5.0.0.20_026Q V236 begin-->
+    <virtualNet hplmn="24205" virtual_net_rule="1" imsi_start="2420595" ons_name="1:2420595,24205,My Call,My Call;"/>
+    <!--AR0009CQP6 zwx379580 2017/10/16 System_5.0.0.20_026Q V236 end-->
+    <!--AR0009CQP6 zwx379580 2017/10/16 System_5.0.0.20_026Q V236 begin-->
+    <virtualNet hplmn="23212" virtual_net_rule="3" spn="Ge org!" ons_name="1:23212,23201,Ge org!,Ge org!;"/>
+    <!--AR0009CQP6 zwx379580 2017/10/16 System_5.0.0.20_026Q V236 end-->
+</virtualNets>

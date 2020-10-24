@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<hwouc_presets version="1">
+    <!--DTS2018030611849 qwx399752 2018/03/07 System_5.0.0.20_02J8 V305 begin-->
+    <int name="download_limit_size_cota">1</int>
+    <!--DTS2018030611849 qwx399752 2018/03/07 System_5.0.0.20_02J8 V305 end-->
+    <!--AR000A57D4 cwx499782 2018/02/24 System_5.0.0.20_02I3 V298 begin-->
+    <!--AR000A2HGJ cwx499782 2018/01/04 System_5.0.0.20_02EK V271 begin-->
+    <!--AR0009CQTA zwx379580 2017/07/01 System_5.0.0.20_01PN V36 begin-->
+    <string name="PLMN_cust_values">21401,0,true^20810,100,true^21407,100,true</string>
+    <!--AR0009CQTA zwx379580 2017/07/01 System_5.0.0.20_01PN V36 end-->
+    <!--AR000A2HGJ cwx499782 2018/01/04 System_5.0.0.20_02EK V271 end-->
+    <!--AR000A57D4 cwx499782 2018/02/24 System_5.0.0.20_02I3 V298 end-->
+    <!--AR0009CQTL zwx379580 2017/07/01 System_5.0.0.20_01PN V44 begin-->
+    <int name="download_limit_size">1</int>
+    <!--AR0009CQTL zwx379580 2017/07/01 System_5.0.0.20_01PN V44 end-->
+</hwouc_presets>

@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+
+    <default>
+
+        <!-- audio_threshold -->
+        <testItem
+            itemKeyName="threshold_mainMicLevel"
+            paraValue="10" />
+
+        <testItem
+            itemKeyName="threshold_subMicLevel"
+            paraValue="10" />
+
+        <testItem
+            itemKeyName="threshold_mainMic2Level"
+            paraValue="10" />
+
+        <testItem
+            itemKeyName="threshold_subMic2Level"
+            paraValue="10" />
+
+        <testItem
+            itemKeyName="threshold_headphoneMinVolume"
+            paraValue="50" />
+
+        <testItem
+            itemKeyName="threshold_headphoneMaxVolume"
+            paraValue="100" />
+
+        <testItem
+            itemKeyName="threshold_headphoneMinFre"
+            paraValue="950" />
+
+        <testItem
+            itemKeyName="threshold_headphoneMaxFre"
+            paraValue="1050" />
+
+        <testItem
+            itemKeyName="threshold_receiverMinVolume"
+            paraValue="50" />
+
+        <testItem
+            itemKeyName="threshold_receiverMaxVolume"
+            paraValue="83" />
+
+        <testItem
+            itemKeyName="threshold_receiverMinFre"
+            paraValue="950" />
+
+        <testItem
+            itemKeyName="threshold_receiverMaxFre"
+            paraValue="1050" />
+
+        <!-- scene_current_threshold -->
+        <testItem
+            itemKeyName="threshold_minQ4Impedance"
+            paraValue="-2500" />
+
+        <testItem
+            itemKeyName="threshold_maxQ4Impedance"
+            paraValue="2500" />
+
+        <testItem
+            itemKeyName="threshold_lightMinCurrent"
+            paraValue="-350" />
+
+        <testItem
+            itemKeyName="threshold_lightMaxCurrent"
+            paraValue="-100" />
+
+        <testItem
+            itemKeyName="threshold_darkMinCurrent"
+            paraValue="-200" />
+
+        <testItem
+            itemKeyName="threshold_darkMaxCurrent"
+            paraValue="-50" />
+
+        <testItem
+            itemKeyName="threshold_wifiMinCurrent"
+            paraValue="-400" />
+
+        <testItem
+            itemKeyName="threshold_wifiMaxCurrent"
+            paraValue="-100" />
+
+        <testItem
+            itemKeyName="threshold_bTMinCurrent"
+            paraValue="-100" />
+
+        <testItem
+            itemKeyName="threshold_btMaxCurrent"
+            paraValue="50" />
+
+        <testItem
+            itemKeyName="threshold_gpsMinCurrent"
+            paraValue="-100" />
+
+        <testItem
+            itemKeyName="threshold_gpsMaxCurrent"
+            paraValue="50" />
+
+        <testItem
+            itemKeyName="threshold_flashLight1MinCurrent"
+            paraValue="-290" />
+
+        <testItem
+            itemKeyName="threshold_flashLight1MaxCurrent"
+            paraValue="-90" />
+
+        <testItem
+            itemKeyName="threshold_flashLight2MinCurrent"
+            paraValue="-5000" />
+
+        <testItem
+            itemKeyName="threshold_flashLight2MaxCurrent"
+            paraValue="50" />
+
+        <testItem
+            itemKeyName="threshold_codecMinCurrent"
+            paraValue="-100" />
+
+        <testItem
+            itemKeyName="threshold_codecMaxCurrent"
+            paraValue="50" />
+
+        <testItem
+            itemKeyName="threshold_backCameraMinCurrent"
+            paraValue="-500" />
+
+        <testItem
+            itemKeyName="threshold_backCameraMaxCurrent"
+            paraValue="-100" />
+
+        <testItem
+            itemKeyName="threshold_frontCameraMinCurrent"
+            paraValue="-500" />
+
+        <testItem
+            itemKeyName="threshold_frontCameraMaxCurrent"
+            paraValue="-100" />
+
+        <!-- pa_current_threshold -->
+        <testItem
+            itemKeyName="threshold_paMainGsmMinCurrent"
+            paraValue="-5000" />
+
+        <testItem
+            itemKeyName="threshold_paMainGsmMaxCurrent"
+            paraValue="0" />
+
+        <testItem
+            itemKeyName="threshold_paMainWcdmaMinCurrent"
+            paraValue="-500" />
+
+        <testItem
+            itemKeyName="threshold_paMainWcdmaMaxCurrent"
+            paraValue="-150" />
+
+        <testItem
+            itemKeyName="threshold_paMainLteMinCurrent"
+            paraValue="-500" />
+
+        <testItem
+            itemKeyName="threshold_paMainLteMaxCurrent"
+            paraValue="-150" />
+
+        <testItem
+            itemKeyName="threshold_paSubGsmMinCurrent"
+            paraValue="-5000" />
+
+        <testItem
+            itemKeyName="threshold_paSubGsmMaxCurrent"
+            paraValue="0" />
+
+        <testItem
+            itemKeyName="threshold_paCdmaMinCurrent"
+            paraValue="-5000" />
+
+        <testItem
+            itemKeyName="threshold_paCdmaMaxCurrent"
+            paraValue="0" />
+
+        <!-- pa_threshold -->
+        <testItem
+            itemKeyName="threshold_paWcdmaPdetMinValue"
+            paraValue="170" />
+
+        <testItem
+            itemKeyName="threshold_paWcdmaPdetMaxValue"
+            paraValue="230" />
+
+        <testItem
+            itemKeyName="threshold_paCdmaPdetMinValue"
+            paraValue="0" />
+
+        <testItem
+            itemKeyName="threshold_paCdmaPdetMaxValue"
+            paraValue="3000" />
+
+        <testItem
+            itemKeyName="threshold_rficEsdGsmMaxValue"
+            paraValue="1300" />
+
+        <testItem
+            itemKeyName="threshold_rficEsdLteMaxValue"
+            paraValue="1300" />
+
+        <testItem
+            itemKeyName="threshold_rficEsdWcdmaMaxValue"
+            paraValue="1300" />
+
+        <testItem
+            itemKeyName="threshold_wifiMaxRate"
+            paraValue="100" />
+
+        <testItem
+            itemKeyName="threshold_wifiMinRate"
+            paraValue="0" />
+
+        <!-- charger_threshold -->
+        <testItem
+            itemKeyName="threshold_batteryMaxLevel"
+            paraValue="77" />
+
+        <testItem
+            itemKeyName="threshold_batteryMinLevel"
+            paraValue="67" />
+
+        <testItem
+            itemKeyName="threshold_batteryUpperLimitInAscendPeriod"
+            paraValue="70" />
+
+        <testItem
+            itemKeyName="threshold_batteryLowerLimitInAscendPeriod"
+            paraValue="35" />
+
+        <testItem
+            itemKeyName="threshold_batteryUpperLimitInDescendPeriod"
+            paraValue="36" />
+
+        <testItem
+            itemKeyName="threshold_batteryLowerLimitInDescendPeriod"
+            paraValue="34" />
+
+        <!-- airPress_threshold -->
+        <testItem
+            itemKeyName="threshold_airPressFirstDiffValue"
+            paraValue="50" />
+
+        <testItem
+            itemKeyName="threshold_airPressAvgDiffValue"
+            paraValue="10" />
+
+        <testItem
+            itemKeyName="threshold_vibratorTest"
+            paraValue="0" />
+    </default>
+</config>

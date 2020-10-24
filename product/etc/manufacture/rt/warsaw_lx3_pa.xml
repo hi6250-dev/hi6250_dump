@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PA>
+    <modemNum>1</modemNum>
+    <balongModemNum>1</balongModemNum>
+    <modem1>balong</modem1>
+    <modem2>balong1</modem2>
+    <channelType>0</channelType>
+    <isInit>1</isInit>
+    <testPDETFlag>1</testPDETFlag>
+    <initModem>AT+CFUN=0</initModem>
+    <openModem1>AT^CURC=0</openModem1>
+    <openModem2>AT^CURC=0</openModem2>
+    <startATCommandGSM900></startATCommandGSM900>
+    <startATCommandGSM1800></startATCommandGSM1800>
+    <startATCommandWB1RX>AT^TMODE=1;AT^FCHAN=0,0,9750;AT^FRXON=1;AT^TSELRF=3;AT^FLNA=0</startATCommandWB1RX>
+    <startATCommandSubRX>AT^TMODE=1;AT^FCHAN=3,2,699;AT^TSELRF=1;AT^FLNA=0;AT^FRXON=1</startATCommandSubRX>
+    <startATCommandWCDMAB1>AT^TMODE=1;AT^FCHAN=0,0,9750;AT^FWAVE=0,2000;AT^FTXON=0;AT^FTXON=1</startATCommandWCDMAB1>
+    <startATCommandWCDMAB5>AT^TMODE=1;AT^FCHAN=0,7,4182;AT^FWAVE=0,2000;AT^FTXON=0;AT^FTXON=1</startATCommandWCDMAB5>
+    <startPDETSubGSM900></startPDETSubGSM900>
+    <startPDETSubGSM1800></startPDETSubGSM1800>
+    <currentCommandMainGSM900></currentCommandMainGSM900>
+    <currentCommandMainGSM1800></currentCommandMainGSM1800>
+    <currentCommandMainWCDMAB1>AT^TMODE=1;AT^FCHAN=0,0,9750;AT^FWAVE=0,2000;AT^FTXON=0;AT^FTXON=1</currentCommandMainWCDMAB1>
+    <currentCommandMainWCDMAB5>AT^TMODE=1;AT^FCHAN=0,7,4182;AT^FWAVE=0,2000;AT^FTXON=0;AT^FTXON=1</currentCommandMainWCDMAB5>
+    <currentCommandMainLTEB39></currentCommandMainLTEB39>
+    <currentCommandMainLTEB40></currentCommandMainLTEB40>
+    <currentCommandMainLTEB41></currentCommandMainLTEB41>
+    <currentCommandSubGSM900></currentCommandSubGSM900>
+    <currentCommandSubGSM1800></currentCommandSubGSM1800>
+    <currentCommandCDMA></currentCommandCDMA>
+    <stopATCommand>AT^FTXON=0</stopATCommand>
+    <stopATCommandRX>AT^FRXON=0</stopATCommandRX>
+    <checkPLL>AT^FPLLSTATUS?</checkPLL>
+    <checkPDET>AT^FPOWDET?</checkPDET>
+    <closeModem>AT^MODEM=0</closeModem>
+</PA>

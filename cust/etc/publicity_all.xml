@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<packageList>
+	<packageInfo author="华为软件技术有限公司" feature="华为移动服务（Huawei Mobile Services）为华为帐号、华为支付、华为推送等华为自有应用和第三方应用提供基础服务，包括登录帐号、支付、接收消息等。" package="com.huawei.hwid" label="com.huawei.hwid">
+	</packageInfo>
+	<packageInfo author="华为软件技术有限公司" feature="您可以通过文件管理器管理手机上的文件，如：图片、视频、音频、文档、APP等。" package="com.huawei.hidisk" label="com.huawei.hidisk">
+	</packageInfo>
+	<packageInfo author="华为软件技术有限公司" feature="云文件夹，在您使用“精品推荐”文件夹的应用时，给您提供 TOP 级精品应用的推荐服务，让您轻松发现实用、好用的手机应用。" package="com.huawei.hifolder" label="com.huawei.hifolder">
+	</packageInfo>
+</packageList>

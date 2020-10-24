@@ -1,0 +1,751 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+
+<!-- ***********************test swtich begin************************** -->
+        <testItem
+            itemKeyName="testParameterViewSwitch"
+            switchOrPara="switch"
+            paraValue="false" />
+
+        <testItem
+            itemKeyName="i2cCheckSwitch"
+            switchOrPara="switch"
+            paraValue="true" />
+
+        <testItem
+            itemKeyName="cpuOnlineCheckSwitch"
+            switchOrPara="switch"
+            paraValue="true" />
+
+        <testItem
+            itemKeyName="chargeControlSwitch"
+            switchOrPara="switch"
+            paraValue="true" />
+
+        <testItem
+            itemKeyName="lcdBackLightTestSwitch"
+            switchOrPara="switch"
+            paraValue="false" />
+
+        <testItem
+            itemKeyName="hibenchTestSwitch"
+            switchOrPara="switch"
+            paraValue="true" />
+
+        <testItem
+            itemKeyName="hynixDdrTestSwitch"
+            switchOrPara="switch"
+            paraValue="false" />
+
+        <testItem
+            itemKeyName="ddr800MTestSwitch"
+            switchOrPara="switch"
+            paraValue="true" />
+
+        <testItem
+            itemKeyName="ddrScreenTestSwitch"
+            switchOrPara="switch"
+            paraValue="true" />
+
+         <testItem
+            itemKeyName="ddrSblTestSwitch"
+            switchOrPara="switch"
+            paraValue="false" />
+
+        <testItem
+            itemKeyName="gpuSltTestSwitch"
+            switchOrPara="switch"
+            paraValue="true" />
+
+        <testItem
+            itemKeyName="l2CacheSwitchFirst"
+            switchOrPara="switch"
+            paraValue="true" />
+
+        <testItem
+            itemKeyName="autoRebootSwitch"
+            switchOrPara="switch"
+            paraValue="true" />
+
+        <testItem
+            itemKeyName="pdetSwitch"
+            switchOrPara="switch"
+            paraValue="true" />
+
+        <testItem
+            itemKeyName="paMipiSwitch"
+            switchOrPara="switch"
+            paraValue="false" />
+
+        <testItem
+            itemKeyName="wifiFemSwitch"
+            switchOrPara="switch"
+            paraValue="true" />
+
+        <testItem
+            itemKeyName="fpgaTestSwitch"
+            switchOrPara="switch"
+            paraValue="false" />
+
+        <testItem
+            itemKeyName="micPowerOnSwitch"
+            switchOrPara="switch"
+            paraValue="true" />
+
+        <testItem
+            itemKeyName="lcdGramChecksumTestSwitch"
+            switchOrPara="switch"
+            paraValue="false" />
+
+        <testItem
+            itemKeyName="lcdTestSwitch"
+            switchOrPara="switch"
+            paraValue="true" />
+
+        <testItem
+            itemKeyName="ledLightTestSwitch"
+            switchOrPara="switch"
+            paraValue="true" />
+
+        <testItem
+            itemKeyName="lcdGramInversionTestSwitch"
+            switchOrPara="switch"
+            paraValue="true" />
+
+        <testItem
+            itemKeyName="backgroundItemSwitchFirstPeriod"
+            switchOrPara="switch"
+            paraValue="true" />
+
+        <testItem
+            itemKeyName="cpuHighLoadedSwitchFirstPeriod"
+            switchOrPara="switch"
+            paraValue="true" />
+
+        <testItem
+            itemKeyName="paSwitchFirstPeriod"
+            switchOrPara="switch"
+            paraValue="false" />
+
+        <testItem
+            itemKeyName="audioTestSwitchFirstPeriod"
+            switchOrPara="switch"
+            paraValue="true" />
+
+        <testItem
+            itemKeyName="vibrateSwitchFirstPeriod"
+            switchOrPara="switch"
+            paraValue="true" />
+
+        <testItem
+            itemKeyName="tpRangeCheckSwitchFirstPeriod"
+            switchOrPara="switch"
+            paraValue="true" />
+
+        <testItem
+            itemKeyName="smartPASwitchFirstPeriod"
+            switchOrPara="switch"
+            paraValue="true" />
+
+        <testItem
+            itemKeyName="smartPAStressSwitchFirstPeriod"
+            switchOrPara="switch"
+            paraValue="false" />
+
+        <testItem
+            itemKeyName="pcdErrFlagFirstPeriod"
+            switchOrPara="switch"
+            paraValue="false" />
+
+        <testItem
+            itemKeyName="airPressSensorSwitchFirstPeriod"
+            switchOrPara="switch"
+            paraValue="false" />
+
+        <testItem
+            itemKeyName="lcdCurrentVoltageSwitchFirstPeriod"
+            switchOrPara="switch"
+            paraValue="false" />
+
+        <testItem
+            itemKeyName="audioLoopSwitchFirstPeriod"
+            switchOrPara="switch"
+            paraValue="true" />
+
+        <testItem
+            itemKeyName="audioLoopSwitchMainMic"
+            switchOrPara="switch"
+            paraValue="true" />
+
+        <testItem
+            itemKeyName="audioLoopSwitchSubMic"
+            switchOrPara="switch"
+            paraValue="true" />
+
+        <testItem
+            itemKeyName="audioLoopSwitchMainMic2"
+            switchOrPara="switch"
+            paraValue="false" />
+
+        <testItem
+            itemKeyName="audioLoopSwitchSubMic2"
+            switchOrPara="switch"
+            paraValue="false" />
+
+        <testItem
+            itemKeyName="headphoneSinSwitch"
+            switchOrPara="switch"
+            paraValue="false" />
+
+        <testItem
+            itemKeyName="receiverSinSwitch"
+            switchOrPara="switch"
+            paraValue="false" />
+
+        <testItem
+            itemKeyName="voiceRouseSwitch"
+            switchOrPara="switch"
+            paraValue="false" />
+
+        <testItem
+            itemKeyName="instrumentsTestSwitchFirstPeriod"
+            switchOrPara="switch"
+            paraValue="true" />
+
+        <testItem
+            itemKeyName="instrumentWifiSwitch"
+            switchOrPara="switch"
+            paraValue="true" />
+
+        <testItem
+            itemKeyName="instrumentBtSwitch"
+            switchOrPara="switch"
+            paraValue="true" />
+
+        <testItem
+            itemKeyName="instrumentApproachSwitch"
+            switchOrPara="switch"
+            paraValue="true" />
+
+        <testItem
+            itemKeyName="instrumentGravitySwitch"
+            switchOrPara="switch"
+            paraValue="true" />
+
+        <testItem
+            itemKeyName="instrumentGyroScopeSwitch"
+            switchOrPara="switch"
+            paraValue="false" />
+
+        <testItem
+            itemKeyName="instrumentGpsSwitch"
+            switchOrPara="switch"
+            paraValue="false" />
+
+        <testItem
+            itemKeyName="instrumentCameraSwitch"
+            switchOrPara="switch"
+            paraValue="true" />
+
+        <testItem
+            itemKeyName="instrumentEnvLightSwitch"
+            switchOrPara="switch"
+            paraValue="true" />
+
+        <testItem
+            itemKeyName="instrumentNfcSwitch"
+            switchOrPara="switch"
+            paraValue="false" />
+
+        <testItem
+            itemKeyName="instrumentLedSwitch"
+            switchOrPara="switch"
+            paraValue="true" />
+
+        <testItem
+            itemKeyName="instrumentMicSwitch"
+            switchOrPara="switch"
+            paraValue="true" />
+
+        <testItem
+            itemKeyName="instrumentCompassSwitch"
+            switchOrPara="switch"
+            paraValue="true" />
+
+        <testItem
+            itemKeyName="instrumentInfraredSwitch"
+            switchOrPara="switch"
+            paraValue="false" />
+
+        <testItem
+            itemKeyName="systemDormancySwitchFirstPeriod"
+            switchOrPara="switch"
+            paraValue="true" />
+
+        <testItem
+            itemKeyName="lcdFlashTestSwitchFirstPeriod"
+            switchOrPara="switch"
+            paraValue="false" />
+
+        <testItem
+            itemKeyName="videoTestSwitch"
+            switchOrPara="switch"
+            paraValue="true" />
+
+        <testItem
+            itemKeyName="backgroundItemSwitchSecondPeriod"
+            switchOrPara="switch"
+            paraValue="true" />
+
+        <testItem
+            itemKeyName="cpuHighLoadedSwitchSecondPeriod"
+            switchOrPara="switch"
+            paraValue="true" />
+
+        <testItem
+            itemKeyName="paSwitchSecondPeriod"
+            switchOrPara="switch"
+            paraValue="true" />
+
+        <testItem
+            itemKeyName="vibrateSwitchSecondPeriod"
+            switchOrPara="switch"
+            paraValue="true" />
+
+        <testItem
+            itemKeyName="tpRangeCheckSwitchSecondPeriod"
+            switchOrPara="switch"
+            paraValue="true" />
+
+        <testItem
+            itemKeyName="airPressSensorSwitchSecondPeriod"
+            switchOrPara="switch"
+            paraValue="false" />
+
+        <testItem
+            itemKeyName="audioLoopSwitchSecondPeriod"
+            switchOrPara="switch"
+            paraValue="true" />
+
+        <testItem
+            itemKeyName="instrumentsTestSwitchSecondPeriod"
+            switchOrPara="switch"
+            paraValue="true" />
+
+        <testItem
+            itemKeyName="systemDormancySwitchSecondPeriod"
+            switchOrPara="switch"
+            paraValue="true" />
+
+        <testItem
+            itemKeyName="lcdFlashTestSwitchSecondPeriod"
+            switchOrPara="switch"
+            paraValue="false" />
+
+        <testItem
+            itemKeyName="cameraChecksumSwitch"
+            switchOrPara="switch"
+            paraValue="true" />
+
+        <testItem
+            itemKeyName="cameraTakePictureSwitch"
+            switchOrPara="switch"
+            paraValue="true" />
+
+        <testItem
+            itemKeyName="cameraBurstTakePictureSwitch"
+            switchOrPara="switch"
+            paraValue="true" />
+
+        <testItem
+            itemKeyName="cameraOisTestSwitch"
+            switchOrPara="switch"
+            paraValue="true" />
+
+        <testItem
+            itemKeyName="backCameraVcmTestSwitch"
+            switchOrPara="switch"
+            paraValue="true" />
+
+        <testItem
+            itemKeyName="frontCameraVcmTestSwitch"
+            switchOrPara="switch"
+            paraValue="false" />
+
+        <testItem
+            itemKeyName="cameraGyroTestSwitch"
+            switchOrPara="switch"
+            paraValue="false" />
+
+        <testItem
+            itemKeyName="frontFlashLightSwitch"
+            switchOrPara="switch"
+            paraValue="false" />
+
+        <testItem
+            itemKeyName="cameraOcramTestSwitch"
+            switchOrPara="switch"
+            paraValue="false" />
+
+        <testItem
+            itemKeyName="fingerprintTestSwitch"
+            switchOrPara="switch"
+            paraValue="true" />
+
+        <testItem
+            itemKeyName="ufsTestSwitch"
+            switchOrPara="switch"
+            paraValue="false" />
+
+        <testItem
+            itemKeyName="emmcRecoveryTestSwitch"
+            switchOrPara="switch"
+            paraValue="true" />
+
+        <testItem
+            itemKeyName="workCurrentTestSwitch"
+            switchOrPara="switch"
+            paraValue="true" />
+
+        <testItem
+            itemKeyName="q4ImpedanceSwitch"
+            switchOrPara="switch"
+            paraValue="false" />
+
+        <testItem
+            itemKeyName="lcdMaxBrightSwitch"
+            switchOrPara="switch"
+            paraValue="true" />
+
+        <testItem
+            itemKeyName="lcdMinBrightSwitch"
+            switchOrPara="switch"
+            paraValue="true" />
+
+        <testItem
+            itemKeyName="wifiCurrentSwitch"
+            switchOrPara="switch"
+            paraValue="true" />
+
+        <testItem
+            itemKeyName="btCurrentSwitch"
+            switchOrPara="switch"
+            paraValue="true" />
+
+        <testItem
+            itemKeyName="gpsCurrentSwitch"
+            switchOrPara="switch"
+            paraValue="true" />
+
+        <testItem
+            itemKeyName="flashLightFirstSwitch"
+            switchOrPara="switch"
+            paraValue="true" />
+
+        <testItem
+            itemKeyName="flashLightSecondSwitch"
+            switchOrPara="switch"
+            paraValue="false" />
+
+        <testItem
+            itemKeyName="codecCurrentSwitch"
+            switchOrPara="switch"
+            paraValue="true" />
+
+        <testItem
+            itemKeyName="cameraCurrentSwitch"
+            switchOrPara="switch"
+            paraValue="true" />
+
+        <testItem
+            itemKeyName="paCurrentTestSwitch"
+            switchOrPara="switch"
+            paraValue="true" />
+
+        <testItem
+            itemKeyName="uartsdioLoopSwitch"
+            switchOrPara="switch"
+            paraValue="true" />
+
+        <testItem
+            itemKeyName="rficEsdTestSwitch"
+            switchOrPara="switch"
+            paraValue="false" />
+
+        <testItem
+            itemKeyName="l2CacheSwitchSecond"
+            switchOrPara="switch"
+            paraValue="true" />
+
+        <testItem
+            itemKeyName="scrollTestSwitch"
+            switchOrPara="switch"
+            paraValue="true" />
+
+       <testItem
+            itemKeyName="frequencyModulateSwitch"
+            switchOrPara="switch"
+            paraValue="true" />
+
+        <testItem
+            itemKeyName="monkeyTestSwitch"
+            switchOrPara="switch"
+            paraValue="true" />
+
+        <testItem
+            itemKeyName="batteryWaveSwitch"
+            switchOrPara="switch"
+            paraValue="false" />
+
+        <testItem
+            itemKeyName="mainMicSilenceTestSwitch"
+            switchOrPara="switch"
+            paraValue="true" />
+
+        <testItem
+            itemKeyName="subMicSilenceTestSwitch"
+            switchOrPara="switch"
+            paraValue="true" />
+
+        <testItem
+            itemKeyName="mainMic2SilenceTestSwitch"
+            switchOrPara="switch"
+            paraValue="false" />
+
+        <testItem
+            itemKeyName="subMic2SilenceTestSwitch"
+            switchOrPara="switch"
+            paraValue="false" />
+
+        <testItem
+            itemKeyName="rtTimeOutTestSwitch"
+            switchOrPara="switch"
+            paraValue="true" />
+
+        <testItem
+            itemKeyName="vibratorTestSwitch"
+            switchOrPara="switch"
+            paraValue="true" />
+<!-- ***********************test swtich end************************** -->
+<!-- ***********************test para begin************************** -->
+        <testItem
+            itemKeyName="cycleTime"
+            switchOrPara="para"
+            paraValue="8" />
+
+        <testItem
+            itemKeyName="cpuMaxFrequence"
+            switchOrPara="para"
+            paraValue="2016000" />
+
+        <testItem
+            itemKeyName="systemDormancyTime"
+            switchOrPara="para"
+            paraValue="180000" />
+
+        <testItem
+            itemKeyName="batteryMinLevel"
+            switchOrPara="para"
+            paraValue="67" />
+
+        <testItem
+            itemKeyName="batteryMaxLevel"
+            switchOrPara="para"
+            paraValue="77" />
+
+        <testItem
+            itemKeyName="hibenchTestTime"
+            switchOrPara="para"
+            paraValue="1" />
+
+        <testItem
+            itemKeyName="hynixDdrTestTime"
+            switchOrPara="para"
+            paraValue="1" />
+
+        <testItem
+            itemKeyName="ddr800MTestTime"
+            switchOrPara="para"
+            paraValue="1" />
+
+        <testItem
+            itemKeyName="ddrScreenTestTime"
+            switchOrPara="para"
+            paraValue="1" />
+
+        <testItem
+            itemKeyName="ddrSblTestTime"
+            switchOrPara="para"
+            paraValue="1" />
+
+        <testItem
+            itemKeyName="gpuSltTestTime"
+            switchOrPara="para"
+            paraValue="1" />
+
+        <testItem
+            itemKeyName="l2CacheTimeFirst"
+            switchOrPara="para"
+            paraValue="1" />
+
+        <testItem
+            itemKeyName="autoRebootNumber"
+            switchOrPara="para"
+            paraValue="50" />
+
+        <testItem
+            itemKeyName="lcdGramChecksumTestTime"
+            switchOrPara="para"
+            paraValue="3" />
+
+        <testItem
+            itemKeyName="tempAscendOneTime"
+            switchOrPara="para"
+            paraValue="360000" />
+
+        <testItem
+            itemKeyName="cpuOccupancyFirstPeriod"
+            switchOrPara="para"
+            paraValue="90" />
+
+        <testItem
+            itemKeyName="cpuThreadNumberFirstPeriod"
+            switchOrPara="para"
+            paraValue="8" />
+
+        <testItem
+            itemKeyName="dormancyNumberFirstPeriod"
+            switchOrPara="para"
+            paraValue="2" />
+
+        <testItem
+            itemKeyName="tempAscendTwoTime"
+            switchOrPara="para"
+            paraValue="360000" />
+
+        <testItem
+            itemKeyName="cpuOccupancySecondPeriod"
+            switchOrPara="para"
+            paraValue="90" />
+
+        <testItem
+            itemKeyName="cpuThreadNumberSecondPeriod"
+            switchOrPara="para"
+            paraValue="8" />
+
+        <testItem
+            itemKeyName="dormancyNumberSecondPeriod"
+            switchOrPara="para"
+            paraValue="2" />
+
+        <testItem
+            itemKeyName="cameraChecksumTestTime"
+            switchOrPara="para"
+            paraValue="10" />
+
+        <testItem
+            itemKeyName="cameraPhotosNumberTake"
+            switchOrPara="para"
+            paraValue="100" />
+
+        <testItem
+            itemKeyName="cameraOcramTestTime"
+            switchOrPara="para"
+            paraValue="3" />
+
+        <testItem
+            itemKeyName="fingerprintTestTime"
+            switchOrPara="para"
+            paraValue="300000" />
+
+        <testItem
+            itemKeyName="cameraBurstCycle"
+            switchOrPara="para"
+            paraValue="5" />
+
+        <testItem
+            itemKeyName="cameraBurstNumber"
+            switchOrPara="para"
+            paraValue="20" />
+
+        <testItem
+            itemKeyName="ufsTestTime"
+            switchOrPara="para"
+            paraValue="1" />
+
+        <testItem
+            itemKeyName="emmcRecoveryTestTime"
+            switchOrPara="para"
+            paraValue="1" />
+
+        <testItem
+            itemKeyName="workCurrentTestTime"
+            switchOrPara="para"
+            paraValue="1" />
+
+        <testItem
+            itemKeyName="paCurrentTestTime"
+            switchOrPara="para"
+            paraValue="1" />
+
+        <testItem
+            itemKeyName="uartsdioLoopTestTime"
+            switchOrPara="para"
+            paraValue="1" />
+
+        <testItem
+            itemKeyName="rficEsdTestTime"
+            switchOrPara="para"
+            paraValue="1" />
+
+        <testItem
+            itemKeyName="l2CacheTimeSecond"
+            switchOrPara="para"
+            paraValue="1" />
+
+        <testItem
+            itemKeyName="scrollTestTime"
+            switchOrPara="para"
+            paraValue="300000" />
+
+        <testItem
+            itemKeyName="frequencyModulateTestTime"
+            switchOrPara="para"
+            paraValue="600000" />
+
+        <testItem
+            itemKeyName="monkeyTestTime"
+            switchOrPara="para"
+            paraValue="900000" />
+
+        <testItem
+            itemKeyName="rtOutCycleTime"
+            switchOrPara="para"
+            paraValue="18000000" />
+
+        <testItem
+            itemKeyName="rtTestFloatTime"
+            switchOrPara="para"
+            paraValue="1800000" />
+
+        <testItem
+            itemKeyName="rtInnerTemperCycleTime"
+            switchOrPara="para"
+            paraValue="1800000" />
+
+        <testItem
+            itemKeyName="vibrateOnTime"
+            switchOrPara="para"
+            paraValue="2000" />
+
+        <testItem
+            itemKeyName="vibrateOffTime"
+            switchOrPara="para"
+            paraValue="1000" />
+
+        <testItem
+            itemKeyName="vibratorTestTime"
+            switchOrPara="para"
+            paraValue="300000" />
+<!-- ***********************test para end************************** -->
+</config>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8" ?>
+    <tag>
+        <apk>
+        <!-- BEGIN PN: AR0004UV3L Add by z00345405 2017/1/18 -->
+        /system/app/HwLBSService.apk;
+        <!-- END   PN: AR0004UV3L Add by z00345405 2017/1/18 -->
+       </apk>
+    </tag>

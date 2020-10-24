@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<logo_list displayimage="true">
+    <!--AR0009CQPS zwx379580 2017/07/03 System_5.0.0.20_01PQ V64 begin-->
+    <logo_item image="email_Gmail_icon.png" value="@gmail.com" displayname="Gmail"/>
+    <!--AR0009CQPS zwx379580 2017/07/03 System_5.0.0.20_01PQ V64 end-->
+    <!--AR0009CQPS zwx379580 2017/07/03 System_5.0.0.20_01PQ V64 begin-->
+    <logo_item image="email_Hotmail_icon.png" value="@hotmail.com" displayname="Hotmail"/>
+    <!--AR0009CQPS zwx379580 2017/07/03 System_5.0.0.20_01PQ V64 end-->
+    <!--AR0009CQPS zwx379580 2017/07/03 System_5.0.0.20_01PQ V64 begin-->
+    <logo_item image="email_Yahoomail_icon.png" value="@yahoo.com" displayname="Yahoo"/>
+    <!--AR0009CQPS zwx379580 2017/07/03 System_5.0.0.20_01PQ V64 end-->
+</logo_list>

@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<mms_config version="4">
+    <!--DTS2017071408162 zwx379580 2017/07/14 System_5.0.0.20_01UA V144 begin-->
+    <bool name="enableForwardMessageFrom">false</bool>
+    <!--DTS2017071408162 zwx379580 2017/07/14 System_5.0.0.20_01UA V144 end-->
+    <!--AR0009CQOQ wwx368291 2017/06/30 System_5.0.0.20_01PG V31 begin-->
+    <string name="userAgent">Android-Mms/2.0</string>
+    <!--AR0009CQOQ wwx368291 2017/06/30 System_5.0.0.20_01PG V31 end-->
+    <!--AR0009CQOD wwx368291 2017/06/30 System_5.0.0.20_01PG V29 begin-->
+    <bool name="enableMmsParamsFromGlobal">true</bool>
+    <!--AR0009CQOD wwx368291 2017/06/30 System_5.0.0.20_01PG V29 end-->
+    <!--AR0009CQOS zwx379580 2017/07/01 System_5.0.0.20_01PN V41 begin-->
+    <int name="WAPPushSupported">1</int>
+    <!--AR0009CQOS zwx379580 2017/07/01 System_5.0.0.20_01PN V41 end-->
+    <!--DTS2017071408162 zwx379580 2017/07/14 System_5.0.0.20_01UA V144 begin-->
+    <bool name="creationModeEnabled">true</bool>
+    <!--DTS2017071408162 zwx379580 2017/07/14 System_5.0.0.20_01UA V144 end-->
+    <!--AR0009CQPN zwx379580 2017/07/01 System_5.0.0.20_01PN V51 begin-->
+    <int name="defaultAutoRetrievalMms">1</int>
+    <!--AR0009CQPN zwx379580 2017/07/01 System_5.0.0.20_01PN V51 end-->
+    <!--AR0009CQP5 zwx379580 2017/07/01 System_5.0.0.20_01PN V34 begin-->
+    <bool name="enableReplyAll">true</bool>
+    <!--AR0009CQP5 zwx379580 2017/07/01 System_5.0.0.20_01PN V34 end-->
+    <!--DTS2017071408162 zwx379580 2017/07/14 System_5.0.0.20_01UA V144 begin-->
+    <bool name="enableSmartAchive">false</bool>
+    <!--DTS2017071408162 zwx379580 2017/07/14 System_5.0.0.20_01UA V144 end-->
+    <!--AR00099TM9 zwx379580 2017/07/11 System_5.0.0.20_01T6 V129 begin-->
+    <bool name="enableToastWhenRoamingDataClose">true</bool>
+    <!--AR00099TM9 zwx379580 2017/07/11 System_5.0.0.20_01T6 V129 end-->
+    <!--AR0009FU6K zwx379580 2017/07/28 System_5.0.0.20_01YF V184 begin-->
+    <int name="smsToMmsTextThreshold">5</int>
+    <!--AR0009FU6K zwx379580 2017/07/28 System_5.0.0.20_01YF V184 end-->
+    <!--AR0009CQRA zwx379580 2017/06/29 System_5.0.0.20_01PG V3 begin-->
+    <string name="MCCMNCListForBlankSMS">25001,25002,25003,25005,25007,25011,25012,25015,25016,25017,25019,25020,25035,25037,25038,25039,25099,25701,25702,25704</string>
+    <!--AR0009CQRA zwx379580 2017/06/29 System_5.0.0.20_01PG V3 end-->
+    <!--AR0009EU50 zwx379580 2017/07/26 System_5.0.0.20_01XP V181 begin-->
+    <bool name="configRoamingNationalAsLocal">true</bool>
+    <!--AR0009EU50 zwx379580 2017/07/26 System_5.0.0.20_01XP V181 end-->
+    <!--AR0009EU6E zwx379580 2017/07/24 System_5.0.0.20_01WY V174 begin-->
+    <string name="custAdaptListForbidMms">20408;20412</string>
+    <!--AR0009EU6E zwx379580 2017/07/24 System_5.0.0.20_01WY V174 end-->
+    <!--AR000A21CI wwx481664 2018/01/23 System_5.0.0.20_02G0 V280 begin-->
+    <!--DTS2017122001404 ywx505475 2017/12/27 System_5.0.0.20_02E1 V268 begin-->
+    <!--AR0009CQT8 zwx379580 2017/07/18 System_5.0.0.20_01VY V162 begin-->
+    <string name="custConfigForDeliveryReports">20404:2;20601:2;22801:2;22601:2;27602:2</string>
+    <!--AR0009CQT8 zwx379580 2017/07/18 System_5.0.0.20_01VY V162 end-->
+    <!--DTS2017122001404 ywx505475 2017/12/27 System_5.0.0.20_02E1 V268 end-->
+    <!--AR000A21CI wwx481664 2018/01/23 System_5.0.0.20_02G0 V280 end-->
+    <!--AR0009HNN7 fwx229747 2017/09/29 System_5.0.0.20_0264 V233 begin-->
+    <!--DTS2017071408162 zwx379580 2017/07/18 System_5.0.0.20_01VL V157 begin-->
+    <string name="custConfigForMmsReadReports">20404</string>
+    <!--DTS2017071408162 zwx379580 2017/07/18 System_5.0.0.20_01VL V157 end-->
+    <!--AR0009HNN7 fwx229747 2017/09/29 System_5.0.0.20_0264 V233 end-->
+    <!--DTS2018012211936 l00365574 2018/01/24 System_5.0.0.20_02G5 V282 begin-->
+    <!--AR0009HNN7 fwx229747 2017/09/29 System_5.0.0.20_0264 V233 begin-->
+    <!--DTS2017071408162 zwx379580 2017/07/18 System_5.0.0.20_01VL V157 begin-->
+    <string name="custConfigForMmsReplyReadReports">23415,20404</string>
+    <!--DTS2017071408162 zwx379580 2017/07/18 System_5.0.0.20_01VL V157 end-->
+    <!--AR0009HNN7 fwx229747 2017/09/29 System_5.0.0.20_0264 V233 end-->
+    <!--DTS2018012211936 l00365574 2018/01/24 System_5.0.0.20_02G5 V282 end-->
+    <!--AR0009CQPT zwx379580 2017/06/29 System_5.0.0.20_01PG V16 begin-->
+    <string name="custMccMncForMmsRetrive">20809:0,20810:0</string>
+    <!--AR0009CQPT zwx379580 2017/06/29 System_5.0.0.20_01PG V16 end-->
+    <!--AR0009CQO5 zwx379580 2017/07/01 System_5.0.0.20_01PN V57 begin-->
+    <string name="custMccmncForShowSmscNotEdit">23420,23494,23594</string>
+    <!--AR0009CQO5 zwx379580 2017/07/01 System_5.0.0.20_01PN V57 end-->
+    <!--AR0009CQS6 zwx379580 2017/07/25 System_5.0.0.20_01XD V179 begin-->
+    <string name="custReplaceSMSCAddressByCard">26202:+491722270333;20404:+316540881000;21401:+34607003110;26801:+351911616161;23415:+447785016005;27201:+35387699989;22210:+393492000200;20601:+32475161616;22801:+41794999000;20205:+306942190000;21670:+36709996500;23003:+420608005681;22601:+40722004000;27602:+35569200200;65501:+27829129</string>
+    <!--AR0009CQS6 zwx379580 2017/07/25 System_5.0.0.20_01XD V179 end-->
+    <!--AR0009CQNV zwx379580 2017/07/01 System_5.0.0.20_01PN V37 begin-->
+    <int name="defaultAlwaysAllowMms">1</int>
+    <!--AR0009CQNV zwx379580 2017/07/01 System_5.0.0.20_01PN V37 end-->
+    <!--AR0009CQRL zwx379580 2017/07/18 System_5.0.0.20_01VW V161 begin-->
+    <string name="disableSmsDeliverToastByCard">26202,20404,21401,26801,23415,27201,22210,20205,21670,23003,65501,28602,20601,22801,27801,27602,22601</string>
+    <!--AR0009CQRL zwx379580 2017/07/18 System_5.0.0.20_01VW V161 end-->
+    <!--AR0009CQOQ wwx368291 2017/06/30 System_5.0.0.20_01PG V31 begin-->
+    <bool name="enableMmsCustomizedUA">false</bool>
+    <!--AR0009CQOQ wwx368291 2017/06/30 System_5.0.0.20_01PG V31 end-->
+    <!--AR0009CQRA zwx379580 2017/06/29 System_5.0.0.20_01PG V3 begin-->
+    <bool name="enableSendingBlankSMS">false</bool>
+    <!--AR0009CQRA zwx379580 2017/06/29 System_5.0.0.20_01PG V3 end-->
+    <!--AR0009CQO9 zwx379580 2017/07/01 System_5.0.0.20_01PN V59 begin-->
+    <bool name="enableShortPhoneNumberLink">true</bool>
+    <!--AR0009CQO9 zwx379580 2017/07/01 System_5.0.0.20_01PN V59 end-->
+    <!--DTS2017071408162 zwx379580 2017/07/14 System_5.0.0.20_01UA V144 begin-->
+    <bool name="enableSlideDuration">false</bool>
+    <!--DTS2017071408162 zwx379580 2017/07/14 System_5.0.0.20_01UA V144 end-->
+    <!--AR00099TM9 zwx379580 2017/07/10 System_5.0.0.20_01T0 V117 begin-->
+    <bool name="enableSmsNotifyInSilentMode">false</bool>
+    <!--AR00099TM9 zwx379580 2017/07/10 System_5.0.0.20_01T0 V117 end-->
+    <!--DTS2017071408162 zwx379580 2017/07/14 System_5.0.0.20_01UA V144 begin-->
+    <bool name="enableWappushReplace">true</bool>
+    <!--DTS2017071408162 zwx379580 2017/07/14 System_5.0.0.20_01UA V144 end-->
+    <!--DTS2017071408162 zwx379580 2017/07/14 System_5.0.0.20_01UA V144 begin-->
+    <bool name="enabledNotifyWapMMSC">true</bool>
+    <!--DTS2017071408162 zwx379580 2017/07/14 System_5.0.0.20_01UA V144 end-->
+    <!--DTS2017091212408 ywx505475 2017/09/22 System_5.0.0.20_025M V228 begin-->
+    <int name="httpSocketTimeout">360000</int>
+    <!--DTS2017091212408 ywx505475 2017/09/22 System_5.0.0.20_025M V228 end-->
+    <!--AR0009CQOB zwx379580 2017/07/01 System_5.0.0.20_01PN V47 begin-->
+    <bool name="isChangeClassZeroMessageShow">true</bool>
+    <!--AR0009CQOB zwx379580 2017/07/01 System_5.0.0.20_01PN V47 end-->
+    <!--AR0009CQQV zwx379580 2017/07/01 System_5.0.0.20_01PN V40 begin-->
+    <bool name="isUseGgSmsAddressCheck">true</bool>
+    <!--AR0009CQQV zwx379580 2017/07/01 System_5.0.0.20_01PN V40 end-->
+    <!--AR0009CQR5 zwx379580 2017/06/29 System_5.0.0.20_01PG V7 begin-->
+    <string name="mccDefault7BitOff">230,231,260,216</string>
+    <!--AR0009CQR5 zwx379580 2017/06/29 System_5.0.0.20_01PG V7 end-->
+    <!--DTS2017071408162 zwx379580 2017/07/14 System_5.0.0.20_01UA V144 begin-->
+    <bool name="showMMSReadReports">true</bool>
+    <!--DTS2017071408162 zwx379580 2017/07/14 System_5.0.0.20_01UA V144 end-->
+    <!--AR0009CQR5 zwx379580 2017/06/29 System_5.0.0.20_01PG V7 begin-->
+    <bool name="smsOptimizationCharacters">true</bool>
+    <!--AR0009CQR5 zwx379580 2017/06/29 System_5.0.0.20_01PG V7 end-->
+</mms_config>

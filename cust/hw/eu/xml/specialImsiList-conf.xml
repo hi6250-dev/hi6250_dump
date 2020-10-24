@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<specialImsiList version="1">
+  <specialImsiList numeric="26202"
+    imsiStart="262021505517152"
+    imsiEnd="262021505518151"
+    vnKey="26202F99"
+  />
+  <specialImsiList numeric="26202"
+    imsiStart="262021605721605"
+    imsiEnd="262021605722104"
+    vnKey="26202F99"
+  />
+  <specialImsiList numeric="26202"
+    imsiStart="262021704060033"
+    imsiEnd="262021704075032"
+    vnKey="26202F99"
+  />
+  <specialImsiList numeric="26202"
+    imsiStart="262021705178075"
+    imsiEnd="262021705185574"
+    vnKey="26202F99"
+  />
+  <specialImsiList numeric="26202"
+    imsiStart="262021706006477"
+    imsiEnd="262021706046476"
+    vnKey="26202F99"
+  />
+  <specialImsiList numeric="26202"
+    imsiStart="262021913520022"
+    imsiEnd="262021914085021"
+    vnKey="26202F99"
+  />
+  <specialImsiList numeric="26202"
+    imsiStart="262021914583022"
+    imsiEnd="262021914843021"
+    vnKey="26202F99"
+  />
+  <specialImsiList numeric="26202"
+    imsiStart="262021915688022"
+    imsiEnd="262021915689721"
+    vnKey="26202F99"
+  />
+  <specialImsiList numeric="26202"
+    imsiStart="262021916728922"
+    imsiEnd="262021916753921"
+    vnKey="26202F99"
+  />
+  <specialImsiList numeric="26202"
+    imsiStart="262021916844422"
+    imsiEnd="262021916869421"
+    vnKey="26202F99"
+  />
+</specialImsiList>

@@ -1,0 +1,288 @@
+# DTS2017071408162 zwx379580 2017/07/14 System_5.0.0.20_01UA V144 begin 
+ro.config.check_language=en,de,fr,es,pt,ru,it
+# DTS2017071408162 zwx379580 2017/07/14 System_5.0.0.20_01UA V144 end 
+# AR0009CQOR wWX368291 2017/06/28 System_5.0.0.20_01PG V1 begin 
+ro.config.nfc_ce_transevt=true
+# AR0009CQOR wWX368291 2017/06/28 System_5.0.0.20_01PG V1 end 
+# AR0009CQQ2 zwx379580 2017/07/14 System_5.0.0.20_01U6 V139 begin 
+ro.config.ce_authenticate=1
+# AR0009CQQ2 zwx379580 2017/07/14 System_5.0.0.20_01U6 V139 end 
+# AR0009CQOT zwx379580 2017/07/14 System_5.0.0.20_01U5 V136 begin 
+ro.config.hw_is_pre_post_pay=true
+# AR0009CQOT zwx379580 2017/07/14 System_5.0.0.20_01U5 V136 end 
+# AR0009CQSF twx460363 2017/08/17 System_5.0.0.20_022I V211 begin 
+# AR0009CQSF twx460363 2017/08/17 System_5.0.0.20_022H V210 begin 
+# AR0009CQSF zwx379580 2017/07/14 System_5.0.0.20_01U7 V141 begin 
+ro.config.hw_volte_icon_rule=0
+# AR0009CQSF zwx379580 2017/07/14 System_5.0.0.20_01U7 V141 end 
+# AR0009CQSF twx460363 2017/08/17 System_5.0.0.20_022H V210 end 
+# AR0009CQSF twx460363 2017/08/17 System_5.0.0.20_022I V211 end 
+# DTS2018013111947 hwx223678 2018/02/23 System_5.0.0.20_02HX V295 begin 
+ro.config.hw_always_allow_mms=6
+# DTS2018013111947 hwx223678 2018/02/23 System_5.0.0.20_02HX V295 end 
+# AR0009CQQ5 zwx379580 2017/07/05 System_5.0.0.20_01QZ V91 begin 
+ro.config.hw_use_browser_ua=http://wap1.huawei.com/uaprof/HUAWEI_%s_UAProfile.xml
+# AR0009CQQ5 zwx379580 2017/07/05 System_5.0.0.20_01QZ V91 end 
+# DTS2017071408162 zwx379580 2017/07/14 System_5.0.0.20_01UA V144 begin 
+ro.config.CphsOnsEnabled=false
+# DTS2017071408162 zwx379580 2017/07/14 System_5.0.0.20_01UA V144 end 
+# AR0009RLVL hwx458357 2017/12/05 System_5.0.0.20_02BA V261 begin 
+ro.config.custom_short_codes=true
+# AR0009RLVL hwx458357 2017/12/05 System_5.0.0.20_02BA V261 end 
+# AR0009CQOI zwx379580 2017/07/14 System_5.0.0.20_01U6 V138 begin 
+ro.config.hw_omacp=1
+# AR0009CQOI zwx379580 2017/07/14 System_5.0.0.20_01U6 V138 end 
+# DTS2018030203555 ywx458359 2018/03/05 System_5.0.0.20_02IY V304 begin 
+ro.config.force_auto_plmn=20815
+# DTS2018030203555 ywx458359 2018/03/05 System_5.0.0.20_02IY V304 end 
+# AR0009CQSC zwx379580 2017/07/03 System_5.0.0.20_01PR V74 begin 
+gsm.fastdormancy.mode=1
+# AR0009CQSC zwx379580 2017/07/03 System_5.0.0.20_01PR V74 end 
+# AR0009CQQH zwx379580 2017/06/29 System_5.0.0.20_01PG V8 begin 
+ro.config.dualimsi.disableap=true
+# AR0009CQQH zwx379580 2017/06/29 System_5.0.0.20_01PG V8 end 
+# AR0009CQTE zwx379580 2017/07/14 System_5.0.0.20_01U7 V140 begin 
+ro.config.hw.BH_defaultlanguage=true
+# AR0009CQTE zwx379580 2017/07/14 System_5.0.0.20_01U7 V140 end 
+# DTS2017071408162 zwx379580 2017/07/14 System_5.0.0.20_01UA V144 begin 
+ro.config.hw_delay_detach_time=5
+# DTS2017071408162 zwx379580 2017/07/14 System_5.0.0.20_01UA V144 end 
+# AR0009CQSQ zwx379580 2017/07/24 System_5.0.0.20_01WX V173 begin 
+ro.config.hw_nfc_on=true
+# AR0009CQSQ zwx379580 2017/07/24 System_5.0.0.20_01WX V173 end 
+# AR00099TM6 zwx379580 2017/07/10 System_5.0.0.20_01SZ V116 begin 
+ro.config.hw_show_mmiError=true
+# AR00099TM6 zwx379580 2017/07/10 System_5.0.0.20_01SZ V116 end 
+# AR0009CQP7 wwx368291 2017/06/30 System_5.0.0.20_01PG V28 begin 
+ro.huawei.cust.oma=true
+# AR0009CQP7 wwx368291 2017/06/30 System_5.0.0.20_01PG V28 end 
+# AR0009CQP7 zwx379580 2017/06/29 System_5.0.0.20_01PG V9 begin 
+ro.huawei.cust.drm.fl_only=false
+# AR0009CQP7 zwx379580 2017/06/29 System_5.0.0.20_01PG V9 end 
+# AR0009CQPF zwx379580 2017/07/18 System_5.0.0.20_01VW V160 begin 
+ro.config.hw_agps_adpt_sim=true
+# AR0009CQPF zwx379580 2017/07/18 System_5.0.0.20_01VW V160 end 
+# DTS2017110204199 zwx483258 2017/12/05 System_5.0.0.20_02BB V260 begin 
+# AR0009CQT3 zwx379580 2017/06/29 System_5.0.0.20_01PG V21 begin 
+ro.config.nfcceoff_screenoff=false
+# AR0009CQT3 zwx379580 2017/06/29 System_5.0.0.20_01PG V21 end 
+# DTS2017110204199 zwx483258 2017/12/05 System_5.0.0.20_02BB V260 end 
+# AR0009CQPM zwx379580 2017/07/03 System_5.0.0.20_01PR V80 begin 
+ro.config.hw_rcs_vendor=true
+# AR0009CQPM zwx379580 2017/07/03 System_5.0.0.20_01PR V80 end 
+# AR0009CQO0 zwx379580 2017/07/03 System_5.0.0.20_01PR V72 begin 
+ro.config.hw_showSimName=true
+# AR0009CQO0 zwx379580 2017/07/03 System_5.0.0.20_01PR V72 end 
+# AR0009CQTK zwx379580 2017/06/29 System_5.0.0.20_01PG V18 begin 
+ro.config.hw_is_ee_show_n=true
+# AR0009CQTK zwx379580 2017/06/29 System_5.0.0.20_01PG V18 end 
+# AR0009F7PC wwx304824 2017/08/03 System_5.0.0.20_020P V192 begin 
+ro.config.hw_vowifi_show_icon=true
+# AR0009F7PC wwx304824 2017/08/03 System_5.0.0.20_020P V192 end 
+# AR0009CQRD zwx379580 2017/06/29 System_5.0.0.20_01PG V2 begin 
+ro.config.hw_disable_portal=true
+# AR0009CQRD zwx379580 2017/06/29 System_5.0.0.20_01PG V2 end 
+# AR0009CQRN zwx379580 2017/07/18 System_5.0.0.20_01VT V158 begin 
+ro.config.ifToastDuplicateIcon=false
+# AR0009CQRN zwx379580 2017/07/18 System_5.0.0.20_01VT V158 end 
+# DTS2017071408162 zwx379580 2017/07/14 System_5.0.0.20_01UA V144 begin 
+ro.config.noShowCityName=true
+# DTS2017071408162 zwx379580 2017/07/14 System_5.0.0.20_01UA V144 end 
+# AR0009CQT9 zwx379580 2017/07/10 System_5.0.0.20_01SX V112 begin 
+ro.cellbroadcast.emergencyids=0-65534
+# AR0009CQT9 zwx379580 2017/07/10 System_5.0.0.20_01SX V112 end 
+# DTS2017071408162 zwx379580 2017/07/18 System_5.0.0.20_01VL V157 begin 
+ro.config.device_time_for_mms=true
+# DTS2017071408162 zwx379580 2017/07/18 System_5.0.0.20_01VL V157 end 
+# AR0009CQNV zwx379580 2017/07/01 System_5.0.0.20_01PN V37 begin 
+ro.config.hw_allow_rs_mms=true
+# AR0009CQNV zwx379580 2017/07/01 System_5.0.0.20_01PN V37 end 
+# AR0009EDFE zwx379580 2017/07/28 System_5.0.0.20_01YS V188 begin 
+ro.config.hw_opta=432
+# AR0009EDFE zwx379580 2017/07/28 System_5.0.0.20_01YS V188 end 
+# AR0009EDFE zwx379580 2017/07/10 System_5.0.0.20_01SX V110 begin 
+ro.config.hw_optb=999
+# AR0009EDFE zwx379580 2017/07/10 System_5.0.0.20_01SX V110 end 
+# DTS2017071408162 zwx379580 2017/07/14 System_5.0.0.20_01UA V144 begin 
+ro.config.ussd_linkify=true
+# DTS2017071408162 zwx379580 2017/07/14 System_5.0.0.20_01UA V144 end 
+# AR0009CQS3 zwx379580 2017/07/11 System_5.0.0.20_01T6 V127 begin 
+ro.config.hw_opt_pre_contact=true
+# AR0009CQS3 zwx379580 2017/07/11 System_5.0.0.20_01T6 V127 end 
+# DTS2017071408162 zwx379580 2017/07/14 System_5.0.0.20_01UA V144 begin 
+ro.config.sim_store_plus=true
+# DTS2017071408162 zwx379580 2017/07/14 System_5.0.0.20_01UA V144 end 
+# AR0009CQO4 zwx379580 2017/07/01 System_5.0.0.20_01PN V38 begin 
+ro.config.hw_imei_sv_enable=true
+# AR0009CQO4 zwx379580 2017/07/01 System_5.0.0.20_01PN V38 end 
+# AR0009CQO4 zwx379580 2017/07/01 System_5.0.0.20_01PN V38 begin 
+ro.config.hw_imei_sv_show_two=true
+# AR0009CQO4 zwx379580 2017/07/01 System_5.0.0.20_01PN V38 end 
+# AR0009HOA1 wwx365251 2017/08/16 System_5.0.0.20_0226 V205 begin 
+# AR0009CQTI zwx379580 2017/07/03 System_5.0.0.20_01PR V78 begin 
+ro.config.remove_apn_MVNO=false
+# AR0009CQTI zwx379580 2017/07/03 System_5.0.0.20_01PR V78 end 
+# AR0009HOA1 wwx365251 2017/08/16 System_5.0.0.20_0226 V205 end 
+# AR000A28DQ twx460363 2017/12/27 System_5.0.0.20_02E0 V269 begin 
+# DTS2017111006534 twx460363 2017/11/13 System_5.0.0.20_028Z V253 begin 
+# AR0009GNQO twx460363 2017/09/14 System_5.0.0.20_024Z V225 begin 
+# DTS2017090902950 twx460363 2017/09/13 System_5.0.0.20_024X V224 begin 
+# AR0009EU6D twx460363 2017/09/02 System_5.0.0.20_0244 V217 begin 
+# DTS2017081600452 twx460363 2017/08/19 System_5.0.0.20_022M V212 begin 
+# AR0009F7QQ c00404345 2017/07/19 System_5.0.0.20_01W6 V167 begin 
+# AR00091I0S zwx379580 2017/07/14 System_5.0.0.20_01U7 V142 begin 
+ro.config.vowifi_pref_domestic=26202;23415;26207;26203;26201;23420;23430;20801;26209;23410;
+# AR00091I0S zwx379580 2017/07/14 System_5.0.0.20_01U7 V142 end 
+# AR0009F7QQ c00404345 2017/07/19 System_5.0.0.20_01W6 V167 end 
+# DTS2017081600452 twx460363 2017/08/19 System_5.0.0.20_022M V212 end 
+# AR0009EU6D twx460363 2017/09/02 System_5.0.0.20_0244 V217 end 
+# DTS2017090902950 twx460363 2017/09/13 System_5.0.0.20_024X V224 end 
+# AR0009GNQO twx460363 2017/09/14 System_5.0.0.20_024Z V225 end 
+# DTS2017111006534 twx460363 2017/11/13 System_5.0.0.20_028Z V253 end 
+# AR000A28DQ twx460363 2017/12/27 System_5.0.0.20_02E0 V269 end 
+# AR000A28DQ twx460363 2017/12/27 System_5.0.0.20_02E0 V269 begin 
+# DTS2017111006534 twx460363 2017/11/13 System_5.0.0.20_028Z V253 begin 
+# AR0009GNQO twx460363 2017/09/14 System_5.0.0.20_024Z V225 begin 
+# DTS2017090902950 twx460363 2017/09/13 System_5.0.0.20_024X V224 begin 
+# AR0009EU6D twx460363 2017/09/02 System_5.0.0.20_0244 V217 begin 
+# DTS2017081600452 twx460363 2017/08/19 System_5.0.0.20_022M V212 begin 
+# AR0009F7NL wwx317510 2017/08/01 System_5.0.0.20_01ZC V190 begin 
+# AR0009F7QQ c00404345 2017/07/19 System_5.0.0.20_01W6 V167 begin 
+# AR00091I0S zwx379580 2017/07/14 System_5.0.0.20_01U7 V142 begin 
+ro.config.vowifi_pref_roaming=26202;23415;26207;26203;26201;23001;23420;23430;20201;20801;26209;23410;
+# AR00091I0S zwx379580 2017/07/14 System_5.0.0.20_01U7 V142 end 
+# AR0009F7QQ c00404345 2017/07/19 System_5.0.0.20_01W6 V167 end 
+# AR0009F7NL wwx317510 2017/08/01 System_5.0.0.20_01ZC V190 end 
+# DTS2017081600452 twx460363 2017/08/19 System_5.0.0.20_022M V212 end 
+# AR0009EU6D twx460363 2017/09/02 System_5.0.0.20_0244 V217 end 
+# DTS2017090902950 twx460363 2017/09/13 System_5.0.0.20_024X V224 end 
+# AR0009GNQO twx460363 2017/09/14 System_5.0.0.20_024Z V225 end 
+# DTS2017111006534 twx460363 2017/11/13 System_5.0.0.20_028Z V253 end 
+# AR000A28DQ twx460363 2017/12/27 System_5.0.0.20_02E0 V269 end 
+# AR000AG54B ywx522938 2018/05/21 System_5.0.0.20_02NI V321 begin 
+# AR000ABIEI zwx532691 2018/03/08 System_5.0.0.20_02JC V306 begin 
+# AR000A9N17 zwx532691 2018/02/11 System_5.0.0.20_02HP V294 begin 
+# AR000A28DQ twx460363 2017/12/27 System_5.0.0.20_02E0 V269 begin 
+# AR0009Q9RD twx460363 2017/11/01 System_5.0.0.20_028A V249 begin 
+# AR0009Q9RD twx460363 2017/10/31 System_5.0.0.20_0288 V247 begin 
+# DTS2017081600452 twx460363 2017/08/19 System_5.0.0.20_022M V212 begin 
+# AR0009F7QQ c00404345 2017/07/19 System_5.0.0.20_01W6 V167 begin 
+# AR00091I0S zwx379580 2017/07/14 System_5.0.0.20_01U7 V142 begin 
+ro.config.vowifi_pref_wifi_cell=23201;23003;21403;26201;23001;26002;23101;20201;28602;21901;
+# AR00091I0S zwx379580 2017/07/14 System_5.0.0.20_01U7 V142 end 
+# AR0009F7QQ c00404345 2017/07/19 System_5.0.0.20_01W6 V167 end 
+# DTS2017081600452 twx460363 2017/08/19 System_5.0.0.20_022M V212 end 
+# AR0009Q9RD twx460363 2017/10/31 System_5.0.0.20_0288 V247 end 
+# AR0009Q9RD twx460363 2017/11/01 System_5.0.0.20_028A V249 end 
+# AR000A28DQ twx460363 2017/12/27 System_5.0.0.20_02E0 V269 end 
+# AR000A9N17 zwx532691 2018/02/11 System_5.0.0.20_02HP V294 end 
+# AR000ABIEI zwx532691 2018/03/08 System_5.0.0.20_02JC V306 end 
+# AR000AG54B ywx522938 2018/05/21 System_5.0.0.20_02NI V321 end 
+# DTS2017081600452 twx460363 2017/08/19 System_5.0.0.20_022M V212 begin 
+ro.config.vowifi_title=Wi-Fi volání;WLAN Call;Połączenie przez Wi-Fi;COSMOTE WiFi Calling;
+# DTS2017081600452 twx460363 2017/08/19 System_5.0.0.20_022M V212 end 
+# DTS2017081600452 twx460363 2017/08/19 System_5.0.0.20_022M V212 begin 
+ro.config.vowifi_title_mccmnc=23001;26201;26002;20201;
+# DTS2017081600452 twx460363 2017/08/19 System_5.0.0.20_022M V212 end 
+# AR0009EDFE zwx379580 2017/07/10 System_5.0.0.20_01SX V110 begin 
+ro.product.CustCVersion=C432
+# AR0009EDFE zwx379580 2017/07/10 System_5.0.0.20_01SX V110 end 
+# AR0009CQPA zwx379580 2017/07/14 System_5.0.0.20_01U4 V135 begin 
+ro.product.locale=en-GB
+# AR0009CQPA zwx379580 2017/07/14 System_5.0.0.20_01U4 V135 end 
+# AR0009CQRJ zwx379580 2017/06/29 System_5.0.0.20_01PG V25 begin 
+ro.config.hw_directly_callfdn=true
+# AR0009CQRJ zwx379580 2017/06/29 System_5.0.0.20_01PG V25 end 
+# AR0009CQO3 zwx379580 2017/07/03 System_5.0.0.20_01PQ V67 begin 
+ro.config.hw_show_network_icon=true
+# AR0009CQO3 zwx379580 2017/07/03 System_5.0.0.20_01PQ V67 end 
+# AR0009CQSB zwx379580 2017/07/14 System_5.0.0.20_01U6 V137 begin 
+ro.config.on_data_alert_popup=true
+# AR0009CQSB zwx379580 2017/07/14 System_5.0.0.20_01U6 V137 end 
+# AR0009CQRE zwx379580 2017/07/03 System_5.0.0.20_01PR V75 begin 
+ro.config.readiccid_switch=true
+# AR0009CQRE zwx379580 2017/07/03 System_5.0.0.20_01PR V75 end 
+# DTS2017071408162 zwx379580 2017/07/14 System_5.0.0.20_01UA V144 begin 
+ro.config.show_other_ring=false
+# DTS2017071408162 zwx379580 2017/07/14 System_5.0.0.20_01UA V144 end 
+# DTS2017071911178 zwx379580 2017/07/19 System_5.0.0.20_01W8 V168 begin 
+ro.config.subcard_show_network=true
+# DTS2017071911178 zwx379580 2017/07/19 System_5.0.0.20_01W8 V168 end 
+# AR0009CQR2 zwx379580 2017/07/03 System_5.0.0.20_01PQ V62 begin 
+ro.config.email_show_pb=true
+# AR0009CQR2 zwx379580 2017/07/03 System_5.0.0.20_01PQ V62 end 
+# AR0009CQR1 zwx379580 2017/07/03 System_5.0.0.20_01PQ V60 begin 
+ro.config.hw_szlTextView_hint=true
+# AR0009CQR1 zwx379580 2017/07/03 System_5.0.0.20_01PQ V60 end 
+# AR0009CQRO zwx379580 2017/07/03 System_5.0.0.20_01PR V77 begin 
+ro.email.inline_as_att=true
+# AR0009CQRO zwx379580 2017/07/03 System_5.0.0.20_01PR V77 end 
+# AR0009CQRG zwx379580 2017/07/03 System_5.0.0.20_01PR V81 begin 
+ro.email.noreply2self=true
+# AR0009CQRG zwx379580 2017/07/03 System_5.0.0.20_01PR V81 end 
+# AR0009CQRE zwx379580 2017/07/03 System_5.0.0.20_01PR V75 begin 
+ro.config.iccid_language=true
+# AR0009CQRE zwx379580 2017/07/03 System_5.0.0.20_01PR V75 end 
+# DTS2017083107443 z00416773 2017/09/01 System_5.0.0.20_023Z V216 begin 
+ro.config.keyguard_unusedata=false
+# DTS2017083107443 z00416773 2017/09/01 System_5.0.0.20_023Z V216 end 
+# DTS2017071408162 zwx379580 2017/07/14 System_5.0.0.20_01UA V144 begin 
+ro.config.hw_incr_rtsp_pktwt=true
+# DTS2017071408162 zwx379580 2017/07/14 System_5.0.0.20_01UA V144 end 
+# DTS2017080900169 ywx458358 2017/08/09 System_5.0.0.20_021F V197 begin 
+# DTS2017071408162 zwx379580 2017/07/18 System_5.0.0.20_01VL V157 begin 
+ro.config.hw_delay_detach_plmn=26006;29341;29370;29340;29364;20820
+# DTS2017071408162 zwx379580 2017/07/18 System_5.0.0.20_01VL V157 end 
+# DTS2017080900169 ywx458358 2017/08/09 System_5.0.0.20_021F V197 end 
+# AR000AEKVD cwx456680 2018/04/28 System_5.0.0.20_02MA V316 begin 
+ro.camera.cos_ttpic_supported=false
+# AR000AEKVD cwx456680 2018/04/28 System_5.0.0.20_02MA V316 end 
+# AR0009L8I8 lwx422421 2017/09/13 System_5.0.0.20_024W V223 begin 
+ro.config.camera.region=oz
+# AR0009L8I8 lwx422421 2017/09/13 System_5.0.0.20_024W V223 end 
+# AR0009CQSC zwx379580 2017/07/10 System_5.0.0.20_01SX V113 begin 
+gsm.fastdormancy.screen=3
+# AR0009CQSC zwx379580 2017/07/10 System_5.0.0.20_01SX V113 end 
+# AR0009CQSC zwx379580 2017/07/10 System_5.0.0.20_01SX V113 begin 
+gsm.fastdormancy.time_scroff=4000
+# AR0009CQSC zwx379580 2017/07/10 System_5.0.0.20_01SX V113 end 
+# AR0009CQO4 zwx379580 2017/07/01 System_5.0.0.20_01PN V38 begin 
+ro.config.hw.imeisv=true
+# AR0009CQO4 zwx379580 2017/07/01 System_5.0.0.20_01PN V38 end 
+# AR0009CQP7 zwx379580 2017/06/29 System_5.0.0.20_01PG V9 begin 
+drm.service.enabled=true
+# AR0009CQP7 zwx379580 2017/06/29 System_5.0.0.20_01PG V9 end 
+# AR0009CQQ0 zwx379580 2017/07/01 System_5.0.0.20_01PN V35 begin 
+ro.config.hw_hide_lte=true
+# AR0009CQQ0 zwx379580 2017/07/01 System_5.0.0.20_01PN V35 end 
+# AR0009CQQM zwx379580 2017/07/01 System_5.0.0.20_01PN V55 begin 
+ro.config.hw_simpToStandConfrm=true
+# AR0009CQQM zwx379580 2017/07/01 System_5.0.0.20_01PN V55 end 
+# AR000A7UTP l00293362 2018/02/02 System_5.0.0.20_02GU V286 begin 
+ro.config.hotspot_power_mode_on=true
+# AR000A7UTP l00293362 2018/02/02 System_5.0.0.20_02GU V286 end 
+# AR0009CQO6 zwx379580 2017/07/25 System_5.0.0.20_01X6 V177 begin 
+ro.config.attach_apn_enabled=true
+# AR0009CQO6 zwx379580 2017/07/25 System_5.0.0.20_01X6 V177 end 
+# AR0009CQQG zwx379580 2017/06/29 System_5.0.0.20_01PG V13 begin 
+ro.config.hw_ECT=true
+# AR0009CQQG zwx379580 2017/06/29 System_5.0.0.20_01PG V13 end 
+# AR0009CQOO wwx368291 2017/06/30 System_5.0.0.20_01PG V27 begin 
+ro.config.vm_prioritymode=2
+# AR0009CQOO wwx368291 2017/06/30 System_5.0.0.20_01PG V27 end 
+# DTS2017090408143 hwx390965 2017/09/07 System_5.0.0.20_024G V219 begin 
+ro.config.delay_updatename=true
+# DTS2017090408143 hwx390965 2017/09/07 System_5.0.0.20_024G V219 end 
+# AR0009K3TF wwx368291 2017/08/30 System_5.0.0.20_023O V215 begin 
+ro.config.vowifi.provisioning=true
+# AR0009K3TF wwx368291 2017/08/30 System_5.0.0.20_023O V215 end 
+# AR0009CQP7 zwx379580 2017/06/29 System_5.0.0.20_01PG V9 begin 
+ro.huawei.cust.oma_drm=true
+# AR0009CQP7 zwx379580 2017/06/29 System_5.0.0.20_01PG V9 end 
+# AR0009FV1R swx375725 2017/09/26 System_5.0.0.20_025V V231 begin 
+# AR0009FV1R swx375725 2017/09/22 System_5.0.0.20_025L V227 begin 
+ro.config.music_region=balance
+# AR0009FV1R swx375725 2017/09/22 System_5.0.0.20_025L V227 end 
+# AR0009FV1R swx375725 2017/09/26 System_5.0.0.20_025V V231 end 
+
+ro.comp.cust_version=Cust-432000 8.0.0.1(0000)

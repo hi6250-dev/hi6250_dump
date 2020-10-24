@@ -1,0 +1,111 @@
+# DTS2017102801800 wwx481664 2017/10/31 System_5.0.0.20_0285 V2 begin 
+ro.config.nfc_ce_transevt=true
+# DTS2017102801800 wwx481664 2017/10/31 System_5.0.0.20_0285 V2 end 
+# DTS2017102801800 wwx481664 2017/10/31 System_5.0.0.20_0285 V2 begin 
+ro.config.hw_voicemail_sim=true
+# DTS2017102801800 wwx481664 2017/10/31 System_5.0.0.20_0285 V2 end 
+# DTS2017102801800 wwx481664 2017/10/31 System_5.0.0.20_0285 V2 begin 
+ro.config.hw_show_4G_Plus_icon=false
+# DTS2017102801800 wwx481664 2017/10/31 System_5.0.0.20_0285 V2 end 
+# DTS2017102801800 wwx481664 2017/10/31 System_5.0.0.20_0285 V2 begin 
+ro.config.wifi_country_code=true
+# DTS2017102801800 wwx481664 2017/10/31 System_5.0.0.20_0285 V2 end 
+# DTS2017102801800 wwx481664 2017/10/31 System_5.0.0.20_0285 V2 begin 
+ro.config.hw_always_allow_mms=0
+# DTS2017102801800 wwx481664 2017/10/31 System_5.0.0.20_0285 V2 end 
+# DTS2017102801800 wwx481664 2017/10/31 System_5.0.0.20_0285 V2 begin 
+ro.config.hw_omacp=1
+# DTS2017102801800 wwx481664 2017/10/31 System_5.0.0.20_0285 V2 end 
+# DTS2017102801800 wwx481664 2017/10/31 System_5.0.0.20_0285 V2 begin 
+ro.config.hw_ecc_with_sim_card=true
+# DTS2017102801800 wwx481664 2017/10/31 System_5.0.0.20_0285 V2 end 
+# DTS2017102801800 wwx481664 2017/10/31 System_5.0.0.20_0285 V2 begin 
+ro.config.hw_support_vm_ecc=true
+# DTS2017102801800 wwx481664 2017/10/31 System_5.0.0.20_0285 V2 end 
+# DTS2017102801800 wwx481664 2017/10/31 System_5.0.0.20_0285 V2 begin 
+ro.config.show_vmail_number=true
+# DTS2017102801800 wwx481664 2017/10/31 System_5.0.0.20_0285 V2 end 
+# DTS2017102801800 wwx481664 2017/10/31 System_5.0.0.20_0285 V2 begin 
+ro.com.google.clientidbase=android-huawei
+# DTS2017102801800 wwx481664 2017/10/31 System_5.0.0.20_0285 V2 end 
+# DTS2017102801800 wwx481664 2017/10/31 System_5.0.0.20_0285 V2 begin 
+ro.com.google.clientidbase.am=android-huawei
+# DTS2017102801800 wwx481664 2017/10/31 System_5.0.0.20_0285 V2 end 
+# DTS2017102801800 wwx481664 2017/10/31 System_5.0.0.20_0285 V2 begin 
+ro.com.google.clientidbase.ms=android-huawei
+# DTS2017102801800 wwx481664 2017/10/31 System_5.0.0.20_0285 V2 end 
+# DTS2017102801800 wwx481664 2017/10/31 System_5.0.0.20_0285 V2 begin 
+ro.com.google.clientidbase.wal=android-huawei
+# DTS2017102801800 wwx481664 2017/10/31 System_5.0.0.20_0285 V2 end 
+# DTS2017102801800 wwx481664 2017/10/31 System_5.0.0.20_0285 V2 begin 
+ro.config.hw_show_mmiError=true
+# DTS2017102801800 wwx481664 2017/10/31 System_5.0.0.20_0285 V2 end 
+# DTS2017102801800 wwx481664 2017/10/31 System_5.0.0.20_0285 V2 begin 
+ro.config.ca_withoutcat=true
+# DTS2017102801800 wwx481664 2017/10/31 System_5.0.0.20_0285 V2 end 
+# DTS2017102801800 wwx481664 2017/10/31 System_5.0.0.20_0285 V2 begin 
+ro.config.show_full_month=true
+# DTS2017102801800 wwx481664 2017/10/31 System_5.0.0.20_0285 V2 end 
+# DTS2017102801800 wwx481664 2017/10/31 System_5.0.0.20_0285 V2 begin 
+ro.config.hw_hideSimIcon=false
+# DTS2017102801800 wwx481664 2017/10/31 System_5.0.0.20_0285 V2 end 
+# DTS2017102801800 wwx481664 2017/10/31 System_5.0.0.20_0285 V2 begin 
+ro.config.hw_showSimName=true
+# DTS2017102801800 wwx481664 2017/10/31 System_5.0.0.20_0285 V2 end 
+# DTS2017102801800 wwx481664 2017/10/31 System_5.0.0.20_0285 V2 begin 
+ro.config.hspap_hsdpa_open=1
+# DTS2017102801800 wwx481664 2017/10/31 System_5.0.0.20_0285 V2 end 
+# DTS2017102801800 wwx481664 2017/10/31 System_5.0.0.20_0285 V2 begin 
+ro.config.plmn_to_settings=true
+# DTS2017102801800 wwx481664 2017/10/31 System_5.0.0.20_0285 V2 end 
+# DTS2017102801800 wwx481664 2017/10/31 System_5.0.0.20_0285 V2 begin 
+ro.config.myloc_show_first=true
+# DTS2017102801800 wwx481664 2017/10/31 System_5.0.0.20_0285 V2 end 
+# DTS2017102801800 wwx481664 2017/10/31 System_5.0.0.20_0285 V2 begin 
+ro.cellbroadcast.emergencyids=0-65534
+# DTS2017102801800 wwx481664 2017/10/31 System_5.0.0.20_0285 V2 end 
+# DTS2017102801800 wwx481664 2017/10/31 System_5.0.0.20_0285 V2 begin 
+ro.config.hw_allow_rs_mms=true
+# DTS2017102801800 wwx481664 2017/10/31 System_5.0.0.20_0285 V2 end 
+# DTS2017102801800 wwx481664 2017/10/31 System_5.0.0.20_0285 V2 begin 
+ro.config.show_always_mms_ui=true
+# DTS2017102801800 wwx481664 2017/10/31 System_5.0.0.20_0285 V2 end 
+# DTS2017102801800 wwx481664 2017/10/31 System_5.0.0.20_0285 V2 begin 
+ro.config.hw_rcm_cert=true
+# DTS2017102801800 wwx481664 2017/10/31 System_5.0.0.20_0285 V2 end 
+# DTS2017102801800 wwx481664 2017/10/31 System_5.0.0.20_0285 V2 begin 
+ro.config.hw_imei_sv_enable=true
+# DTS2017102801800 wwx481664 2017/10/31 System_5.0.0.20_0285 V2 end 
+# DTS2017102801800 wwx481664 2017/10/31 System_5.0.0.20_0285 V2 begin 
+ro.config.hw_imei_sv_show_two=true
+# DTS2017102801800 wwx481664 2017/10/31 System_5.0.0.20_0285 V2 end 
+# DTS2017102801800 wwx481664 2017/10/31 System_5.0.0.20_0285 V2 begin 
+ro.product.CustCVersion=C900
+# DTS2017102801800 wwx481664 2017/10/31 System_5.0.0.20_0285 V2 end 
+# DTS2017102801800 wwx481664 2017/10/31 System_5.0.0.20_0285 V2 begin 
+ro.config.hw_show_network_icon=true
+# DTS2017102801800 wwx481664 2017/10/31 System_5.0.0.20_0285 V2 end 
+# DTS2017102801800 wwx481664 2017/10/31 System_5.0.0.20_0285 V2 begin 
+ro.config.hw_simlock_retries=true
+# DTS2017102801800 wwx481664 2017/10/31 System_5.0.0.20_0285 V2 end 
+# DTS2017102801800 wwx481664 2017/10/31 System_5.0.0.20_0285 V2 begin 
+ro.config.keyguard_unusedata=true
+# DTS2017102801800 wwx481664 2017/10/31 System_5.0.0.20_0285 V2 end 
+# DTS2017102801800 wwx481664 2017/10/31 System_5.0.0.20_0285 V2 begin 
+ro.config.hw.imeisv=true
+# DTS2017102801800 wwx481664 2017/10/31 System_5.0.0.20_0285 V2 end 
+# DTS2017102801800 wwx481664 2017/10/31 System_5.0.0.20_0285 V2 begin 
+ro.config.hw_RemindWifiToPdp=false
+# DTS2017102801800 wwx481664 2017/10/31 System_5.0.0.20_0285 V2 end 
+# DTS2017102801800 wwx481664 2017/10/31 System_5.0.0.20_0285 V2 begin 
+ro.config.attach_apn_enabled=true
+# DTS2017102801800 wwx481664 2017/10/31 System_5.0.0.20_0285 V2 end 
+# DTS2017102801800 wwx481664 2017/10/31 System_5.0.0.20_0285 V2 begin 
+ro.config.hw_hidecallforward=false
+# DTS2017102801800 wwx481664 2017/10/31 System_5.0.0.20_0285 V2 end 
+# DTS2017102801800 wwx481664 2017/10/31 System_5.0.0.20_0285 V2 begin 
+ro.config.vm_prioritymode=2
+# DTS2017102801800 wwx481664 2017/10/31 System_5.0.0.20_0285 V2 end 
+# DTS2017102801800 wwx481664 2017/10/31 System_5.0.0.20_0285 V2 begin 
+ro.config.music_region=normal
+# DTS2017102801800 wwx481664 2017/10/31 System_5.0.0.20_0285 V2 end 

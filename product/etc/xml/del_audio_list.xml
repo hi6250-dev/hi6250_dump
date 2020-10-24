@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tag version="1.0">
+         <ringtones>Bounce</ringtones>
+         <ringtones>Flipped</ringtones>
+         <ringtones>Flow</ringtones>
+         <ringtones>Free</ringtones>
+         <ringtones>Harp</ringtones>
+         <ringtones>Huawei_Tune_Orchestral</ringtones>
+         <ringtones>Ripple</ringtones>
+         <ringtones>Sailing</ringtones>
+         <ringtones>Spring</ringtones>
+         <ringtones>Wind_Dance</ringtones>
+         <ringtones>Day_lily</ringtones>
+         <ringtones>Impromptu</ringtones>
+         <ringtones>Polonaise</ringtones>
+         <ringtones>Suite</ringtones>
+         <ringtones>Digital_Ringtone</ringtones>
+         
+         
+         <alarms>Fresh_Air</alarms>
+         <alarms>Hawaii</alarms>
+         <alarms>Sakura_Drop</alarms>
+         <alarms>Bule_Harbour</alarms>
+         <alarms>Star</alarms>
+         
+         
+         <notifications>Bell_Tree</notifications>
+         <notifications>Cave</notifications>
+         <notifications>Waterflow</notifications>
+         <notifications>PingPong</notifications>
+         <notifications>Pixies</notifications>
+         <notifications>Play</notifications>
+         <notifications>Step</notifications>
+         <notifications>Zen</notifications>
+         <notifications>Cuckoo</notifications>
+         <notifications>Doorbell</notifications>
+         <notifications>Drip</notifications>
+         <notifications>Echo</notifications>
+         <notifications>Fountain</notifications>
+         <notifications>Letter</notifications>
+         <notifications>Lit</notifications>
+         <notifications>Little_Wish</notifications>
+         
+         
+         <ui>camera_focus</ui>
+         <ui>Dock</ui>
+         <ui>KeypressInvalid</ui>
+         <ui>Trusted</ui>
+         <ui>Undock</ui>
+         <ui>VideoStop</ui>
+         <ui>WirelessChargingStarted</ui>
+</Tag>

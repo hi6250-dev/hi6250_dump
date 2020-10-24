@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<agpsServers version="1">
+    <!--AR0009CQPF zwx379580 2017/07/11 System_5.0.0.20_01T6 V128 begin-->
+    <agpsServer name="Italy-Wind" mccmnc="22288" supl_port="7275" supl_host="supl.google.com"/>
+    <!--AR0009CQPF zwx379580 2017/07/11 System_5.0.0.20_01T6 V128 end-->
+    <!--AR0009CQPF zwx379580 2017/07/11 System_5.0.0.20_01T6 V128 begin-->
+    <agpsServer name="Switzerland-Swisscom" mccmnc="22801" supl_port="7275" supl_host="supl.vodafone.com"/>
+    <!--AR0009CQPF zwx379580 2017/07/11 System_5.0.0.20_01T6 V128 end-->
+    <!--AR0009CQPF zwx379580 2017/07/11 System_5.0.0.20_01T6 V128 begin-->
+    <agpsServer name="Russian" mccmnc="250" supl_port="7276" supl_host="supl.google.com"/>
+    <!--AR0009CQPF zwx379580 2017/07/11 System_5.0.0.20_01T6 V128 end-->
+    <!--AR0009CQPF zwx379580 2017/07/11 System_5.0.0.20_01T6 V128 begin-->
+    <agpsServer name="Belarus" mccmnc="257" supl_port="7276" supl_host="supl.google.com"/>
+    <!--AR0009CQPF zwx379580 2017/07/11 System_5.0.0.20_01T6 V128 end-->
+    <!--AR0009CQPF zwx379580 2017/07/11 System_5.0.0.20_01T6 V128 begin-->
+    <agpsServer name="Ukraine" mccmnc="255" supl_port="7276" supl_host="supl.google.com"/>
+    <!--AR0009CQPF zwx379580 2017/07/11 System_5.0.0.20_01T6 V128 end-->
+    <!--AR0009CQPF zwx379580 2017/07/11 System_5.0.0.20_01T6 V128 begin-->
+    <agpsServer name="Armenia" mccmnc="283" supl_port="7276" supl_host="supl.google.com"/>
+    <!--AR0009CQPF zwx379580 2017/07/11 System_5.0.0.20_01T6 V128 end-->
+    <!--AR0009CQPF zwx379580 2017/07/11 System_5.0.0.20_01T6 V128 begin-->
+    <agpsServer name="Germany-vodafone" mccmnc="26202" supl_port="7275" supl_host="supl.vodafone.com"/>
+    <!--AR0009CQPF zwx379580 2017/07/11 System_5.0.0.20_01T6 V128 end-->
+    <!--AR0009CQPF zwx379580 2017/07/11 System_5.0.0.20_01T6 V128 begin-->
+    <agpsServer name="Netherlands-vodafone" mccmnc="20404" supl_port="7275" supl_host="supl.vodafone.com"/>
+    <!--AR0009CQPF zwx379580 2017/07/11 System_5.0.0.20_01T6 V128 end-->
+    <!--AR0009CQPF zwx379580 2017/07/11 System_5.0.0.20_01T6 V128 begin-->
+    <agpsServer name="Spain-vodafone" mccmnc="21401" supl_port="7275" supl_host="supl.vodafone.com"/>
+    <!--AR0009CQPF zwx379580 2017/07/11 System_5.0.0.20_01T6 V128 end-->
+    <!--AR0009CQPF zwx379580 2017/07/11 System_5.0.0.20_01T6 V128 begin-->
+    <agpsServer name="Portugal-vodafone" mccmnc="26801" supl_port="7275" supl_host="supl.vodafone.com"/>
+    <!--AR0009CQPF zwx379580 2017/07/11 System_5.0.0.20_01T6 V128 end-->
+    <!--AR0009CQPF zwx379580 2017/07/11 System_5.0.0.20_01T6 V128 begin-->
+    <agpsServer name="Britain-vodafone" mccmnc="23415" supl_port="7275" supl_host="supl.vodafone.com"/>
+    <!--AR0009CQPF zwx379580 2017/07/11 System_5.0.0.20_01T6 V128 end-->
+    <!--AR0009CQPF zwx379580 2017/07/11 System_5.0.0.20_01T6 V128 begin-->
+    <agpsServer name="Ireland-vodafone" mccmnc="27201" supl_port="7275" supl_host="supl.vodafone.com"/>
+    <!--AR0009CQPF zwx379580 2017/07/11 System_5.0.0.20_01T6 V128 end-->
+    <!--AR0009CQPF zwx379580 2017/07/11 System_5.0.0.20_01T6 V128 begin-->
+    <agpsServer name="Italy-vodafone" mccmnc="22210" supl_port="7275" supl_host="supl.vodafone.com"/>
+    <!--AR0009CQPF zwx379580 2017/07/11 System_5.0.0.20_01T6 V128 end-->
+    <!--AR0009CQPF zwx379580 2017/07/11 System_5.0.0.20_01T6 V128 begin-->
+    <agpsServer name="Greece-vodafone" mccmnc="20205" supl_port="7275" supl_host="supl.vodafone.com"/>
+    <!--AR0009CQPF zwx379580 2017/07/11 System_5.0.0.20_01T6 V128 end-->
+    <!--AR0009CQPF zwx379580 2017/07/11 System_5.0.0.20_01T6 V128 begin-->
+    <agpsServer name="Hungary-vodafone" mccmnc="21670" supl_port="7275" supl_host="supl.vodafone.com"/>
+    <!--AR0009CQPF zwx379580 2017/07/11 System_5.0.0.20_01T6 V128 end-->
+    <!--AR0009CQPF zwx379580 2017/07/11 System_5.0.0.20_01T6 V128 begin-->
+    <agpsServer name="Czech-vodafone" mccmnc="23003" supl_port="7275" supl_host="supl.vodafone.com"/>
+    <!--AR0009CQPF zwx379580 2017/07/11 System_5.0.0.20_01T6 V128 end-->
+    <!--AR0009CQPF zwx379580 2017/07/11 System_5.0.0.20_01T6 V128 begin-->
+    <agpsServer name="SouthAfrica-vodafone" mccmnc="65501" supl_port="7275" supl_host="supl.vodafone.com"/>
+    <!--AR0009CQPF zwx379580 2017/07/11 System_5.0.0.20_01T6 V128 end-->
+    <!--AR0009CQPF zwx379580 2017/07/11 System_5.0.0.20_01T6 V128 begin-->
+    <agpsServer name="Turkey-vodafone" mccmnc="28602" supl_port="7275" supl_host="supl.vodafone.com"/>
+    <!--AR0009CQPF zwx379580 2017/07/11 System_5.0.0.20_01T6 V128 end-->
+    <!--AR0009CQPF zwx379580 2017/07/11 System_5.0.0.20_01T6 V128 begin-->
+    <agpsServer name="Proximus-vodafone" mccmnc="20601" supl_port="7275" supl_host="supl.vodafone.com"/>
+    <!--AR0009CQPF zwx379580 2017/07/11 System_5.0.0.20_01T6 V128 end-->
+    <!--AR0009CQPF zwx379580 2017/07/11 System_5.0.0.20_01T6 V128 begin-->
+    <agpsServer name="Malta-vodafone" mccmnc="27801" supl_port="7275" supl_host="supl.vodafone.com"/>
+    <!--AR0009CQPF zwx379580 2017/07/11 System_5.0.0.20_01T6 V128 end-->
+    <!--AR0009CQPF zwx379580 2017/07/11 System_5.0.0.20_01T6 V128 begin-->
+    <agpsServer name="Albania-vodafone" mccmnc="27602" supl_port="7275" supl_host="supl.vodafone.com"/>
+    <!--AR0009CQPF zwx379580 2017/07/11 System_5.0.0.20_01T6 V128 end-->
+    <!--AR0009CQPF zwx379580 2017/07/11 System_5.0.0.20_01T6 V128 begin-->
+    <agpsServer name="Romania-vodafone" mccmnc="22601" supl_port="7275" supl_host="supl.vodafone.com"/>
+    <!--AR0009CQPF zwx379580 2017/07/11 System_5.0.0.20_01T6 V128 end-->
+</agpsServers>

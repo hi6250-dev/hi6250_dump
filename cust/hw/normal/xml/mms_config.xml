@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<mms_config version="4">
+    <!--DTS2017102801800 wwx481664 2017/10/28 System_5.0.0.20_027S V1 begin-->
+    <string name="userAgent">Android-Mms/2.0</string>
+    <!--DTS2017102801800 wwx481664 2017/10/28 System_5.0.0.20_027S V1 end-->
+    <!--DTS2017102801800 wwx481664 2017/10/28 System_5.0.0.20_027S V1 begin-->
+    <bool name="enableMmsParamsFromGlobal">true</bool>
+    <!--DTS2017102801800 wwx481664 2017/10/28 System_5.0.0.20_027S V1 end-->
+    <!--DTS2017102801800 wwx481664 2017/10/28 System_5.0.0.20_027S V1 begin-->
+    <bool name="creationModeEnabled">true</bool>
+    <!--DTS2017102801800 wwx481664 2017/10/28 System_5.0.0.20_027S V1 end-->
+    <!--DTS2017102801800 wwx481664 2017/10/28 System_5.0.0.20_027S V1 begin-->
+    <bool name="enableReplyAll">true</bool>
+    <!--DTS2017102801800 wwx481664 2017/10/28 System_5.0.0.20_027S V1 end-->
+    <!--DTS2017102801800 wwx481664 2017/10/28 System_5.0.0.20_027S V1 begin-->
+    <bool name="enableSmartAchive">false</bool>
+    <!--DTS2017102801800 wwx481664 2017/10/28 System_5.0.0.20_027S V1 end-->
+    <!--DTS2017102801800 wwx481664 2017/10/28 System_5.0.0.20_027S V1 begin-->
+    <bool name="modifySMSCenterNumber">true</bool>
+    <!--DTS2017102801800 wwx481664 2017/10/28 System_5.0.0.20_027S V1 end-->
+    <!--DTS2017102801800 wwx481664 2017/10/28 System_5.0.0.20_027S V1 begin-->
+    <string name="prefPlaymode">slideshowactivity</string>
+    <!--DTS2017102801800 wwx481664 2017/10/28 System_5.0.0.20_027S V1 end-->
+    <!--DTS2017102801800 wwx481664 2017/10/28 System_5.0.0.20_027S V1 begin-->
+    <int name="defaultAlwaysAllowMms">1</int>
+    <!--DTS2017102801800 wwx481664 2017/10/28 System_5.0.0.20_027S V1 end-->
+    <!--DTS2017102801800 wwx481664 2017/10/28 System_5.0.0.20_027S V1 begin-->
+    <bool name="enableShortPhoneNumberLink">true</bool>
+    <!--DTS2017102801800 wwx481664 2017/10/28 System_5.0.0.20_027S V1 end-->
+    <!--DTS2017102801800 wwx481664 2017/10/28 System_5.0.0.20_027S V1 begin-->
+    <bool name="isChangeClassZeroMessageShow">true</bool>
+    <!--DTS2017102801800 wwx481664 2017/10/28 System_5.0.0.20_027S V1 end-->
+</mms_config>

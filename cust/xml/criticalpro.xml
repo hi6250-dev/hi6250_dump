@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<packages>
+<package name="com.huawei.wifieapsimplmn" path="cust/hw/eu/app/PredefinedEapSim" ss="DF79FF126ED7DE580E83EFFB40A14AF59B3DB81A7ED80FAD1A43033EAB6432C7" version="1"/>
+<package name="com.huawei.hidisk" path="cust/hw/eu/app/HwCloudDrive_EU" ss="EDC4E4A9F0CB5B490F9E7563A5C12F776C87435FF51E8A930FC6F2C08E4B196E" version="100002300"/>
+<package name="com.huawei.android.pushagent" path="cust/hw/eu/app/HwPushService" ss="DF79FF126ED7DE580E83EFFB40A14AF59B3DB81A7ED80FAD1A43033EAB6432C7" version="80000356"/>
+<package name="com.huawei.hwid" path="cust/hw/eu/app/HMS" ss="EDC4E4A9F0CB5B490F9E7563A5C12F776C87435FF51E8A930FC6F2C08E4B196E" version="20600312"/>
+<package name="com.huawei.phoneservice" path="cust/hw/eu/app/HwPhoneService" ss="88A48C320E3E641E54B260DFD0B8A50ADD8BC09AA7C28E4F113487C77408577F" version="80001333"/>
+<package name="com.huawei.trustcircle" path="cust/hw/eu/app/HwTrustCircle" ss="DF79FF126ED7DE580E83EFFB40A14AF59B3DB81A7ED80FAD1A43033EAB6432C7" version="80000301"/>
+<package name="com.huawei.hifolder" path="cust/hw/eu/app/HiFolder" ss="DF79FF126ED7DE580E83EFFB40A14AF59B3DB81A7ED80FAD1A43033EAB6432C7" version="80000300"/>
+<package name="com.huawei.omacp" path="cust/hw/eu/app/OMACP" ss="DF79FF126ED7DE580E83EFFB40A14AF59B3DB81A7ED80FAD1A43033EAB6432C7" version="1"/>
+</packages>
